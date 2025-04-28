@@ -1,0 +1,4937 @@
+{
+  "GCSE": {
+    "exams": [
+      {
+        "date": "2025-05-22",
+        "examCode": "1AA0 1F",
+        "subject": "Arabic",
+        "title": "Paper 1: Listening and understanding in Arabic Foundation Tier",
+        "time": "Afternoon",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "1AA0 1H",
+        "subject": "Arabic",
+        "title": "Paper 1: Listening and understanding in Arabic Higher Tier",
+        "time": "Afternoon",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "1AA0 3F",
+        "subject": "Arabic",
+        "title": "Paper 3: Reading and understanding in Arabic Foundation Tier",
+        "time": "Afternoon",
+        "duration": "0h 50m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "1AA0 3H",
+        "subject": "Arabic",
+        "title": "Paper 3: Reading and understanding in Arabic Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 05m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "1AA0 4F",
+        "subject": "Arabic",
+        "title": "Paper 4: Writing in Arabic Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 20m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "1AA0 4H",
+        "subject": "Arabic",
+        "title": "Paper 4: Writing in Arabic Higher Tier",
+        "time": "Morning",
+        "duration": "1h 25m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "1AS0 01",
+        "subject": "Astronomy",
+        "title": "Paper 1: Naked-eye Astronomy",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-12",
+        "examCode": "1AS0 02",
+        "subject": "Astronomy",
+        "title": "Paper 2: Telescopic Astronomy",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "1BH0 01",
+        "subject": "Biblical Hebrew",
+        "title": "Component 1: Language",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-20",
+        "examCode": "1BH0 02",
+        "subject": "Biblical Hebrew",
+        "title": "Component 2: Literature",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "1BI0 1F",
+        "subject": "Biology",
+        "title": "Paper 1 Foundation Tier",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "1BI0 1H",
+        "subject": "Biology",
+        "title": "Paper 1 Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-09",
+        "examCode": "1BI0 2F",
+        "subject": "Biology",
+        "title": "Paper 2 Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-09",
+        "examCode": "1BI0 2H",
+        "subject": "Biology",
+        "title": "Paper 2 Higher Tier",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-09",
+        "examCode": "1BS0 01",
+        "subject": "Business",
+        "title": "Paper 1: Investigating Small Business",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-16",
+        "examCode": "1BS0 02",
+        "subject": "Business",
+        "title": "Paper 2: Building a Business",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "1CH0 1F",
+        "subject": "Chemistry",
+        "title": "Paper 1 Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "1CH0 1H",
+        "subject": "Chemistry",
+        "title": "Paper 1 Higher Tier",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "1CH0 2F",
+        "subject": "Chemistry",
+        "title": "Paper 2 Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "1CH0 2H",
+        "subject": "Chemistry",
+        "title": "Paper 2 Higher Tier",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "1CN0 1F",
+        "subject": "Chinese",
+        "title": "Paper 1: Listening and understanding in Chinese Foundation Tier",
+        "time": "Afternoon",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "1CN0 1H",
+        "subject": "Chinese",
+        "title": "Paper 1: Listening and understanding in Chinese Higher Tier",
+        "time": "Afternoon",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "1CN0 3F",
+        "subject": "Chinese",
+        "title": "Paper 3: Reading and understanding in Chinese Foundation Tier",
+        "time": "Afternoon",
+        "duration": "0h 50m"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "1CN0 3H",
+        "subject": "Chinese",
+        "title": "Paper 3: Reading and understanding in Chinese Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 05m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "1CN0 4F",
+        "subject": "Chinese",
+        "title": "Paper 4: Writing in Chinese Foundation Tier",
+        "time": "Afternoon",
+        "duration": "1h 20m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "1CN0 4H",
+        "subject": "Chinese",
+        "title": "Paper 4: Writing in Chinese Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 25m"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "1CP2 01",
+        "subject": "Computer Science",
+        "title": "Paper 1: Principles of Computer Science",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-20",
+        "examCode": "1CP2 02",
+        "subject": "Computer Science",
+        "title": "Paper 2: Application of Computational Thinking (Onscreen using an Integrated Development Environment (IDE) of choice)",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "1CS0 01",
+        "subject": "Citizenship Studies",
+        "title": "Paper 1",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "1CS0 02",
+        "subject": "Citizenship Studies",
+        "title": "Paper 2",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "1DR0 03",
+        "subject": "Drama",
+        "title": "Component 3: Theatre Makers in Practice",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-18",
+        "examCode": "1DT0 1A",
+        "subject": "Design and Technology ",
+        "title": "Component 1: Metals",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-18",
+        "examCode": "1DT0 1B",
+        "subject": "Design and Technology ",
+        "title": "Component 1: Papers and boards",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-18",
+        "examCode": "1DT0 1C",
+        "subject": "Design and Technology ",
+        "title": "Component 1: Polymers",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-18",
+        "examCode": "1DT0 1D",
+        "subject": "Design and Technology ",
+        "title": "Component 1: Systems",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-18",
+        "examCode": "1DT0 1E",
+        "subject": "Design and Technology ",
+        "title": "Component 1: Textiles",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-18",
+        "examCode": "1DT0 1F",
+        "subject": "Design and Technology ",
+        "title": "Component 1: Timbers",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-23",
+        "examCode": "1EN0 01",
+        "subject": "English Language",
+        "title": "Paper 1: Fiction and Imaginative Writing",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-06",
+        "examCode": "1EN0 02",
+        "subject": "English Language",
+        "title": "Paper 2: Non-Fiction and Transactional Writing",
+        "time": "Morning",
+        "duration": "2h 05m"
+      },
+      {
+        "date": "2025-05-23",
+        "examCode": "1EN2 01",
+        "subject": "English Language 2.0",
+        "title": "Paper 1: Non-Fiction Texts",
+        "time": "Morning",
+        "duration": "1h 55m"
+      },
+      {
+        "date": "2025-06-06",
+        "examCode": "1EN2 02",
+        "subject": "English Language 2.0",
+        "title": "Paper 2: Contemporary Texts",
+        "time": "Morning",
+        "duration": "1h 55m"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "1ET0 01",
+        "subject": "English Literature",
+        "title": "Paper 1: Shakespeare and Post-1914 Literature",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-20",
+        "examCode": "1ET0 02",
+        "subject": "English Literature",
+        "title": "Paper 2: 19th Century Novel & Poetry since 1789",
+        "time": "Morning",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "1FR0 1F",
+        "subject": "French",
+        "title": "Paper 1: Listening and understanding in French Foundation Tier",
+        "time": "Morning",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "1FR0 1H",
+        "subject": "French",
+        "title": "Paper 1: Listening and understanding in French Higher Tier",
+        "time": "Morning",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "1FR0 3F",
+        "subject": "French",
+        "title": "Paper 3: Reading and understanding in French Foundation Tier",
+        "time": "Morning",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "1FR0 3H",
+        "subject": "French",
+        "title": "Paper 3: Reading and understanding in French Higher Tier",
+        "time": "Morning",
+        "duration": "1h 00m"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "1FR0 4F",
+        "subject": "French",
+        "title": "Paper 4: Writing in French Foundation Tier",
+        "time": "Afternoon",
+        "duration": "1h 15m"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "1FR0 4H",
+        "subject": "French",
+        "title": "Paper 4: Writing in French Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 20m"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "1GA0 01",
+        "subject": "Geography A",
+        "title": "Paper 1: The Physical Environment",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-06",
+        "examCode": "1GA0 02",
+        "subject": "Geography A",
+        "title": "Paper 2: The Human Environment",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-12",
+        "examCode": "1GA0 03",
+        "subject": "Geography A",
+        "title": "Paper 3: Geographical Investigations: Fieldwork and UK Challenges",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "1GB0 01",
+        "subject": "Geography B",
+        "title": "Paper 1: Global Geographical Issues",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-06",
+        "examCode": "1GB0 02",
+        "subject": "Geography B",
+        "title": "Paper 2: UK Geographical Issues",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-12",
+        "examCode": "1GB0 03",
+        "subject": "Geography B",
+        "title": "Paper 3: People and Environment Issues – Making Geographical Decisions",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-12",
+        "examCode": "1GK0 1F",
+        "subject": "Greek",
+        "title": "Paper 1: Listening and understanding in Greek Foundation Tier",
+        "time": "Afternoon",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-06-12",
+        "examCode": "1GK0 1H",
+        "subject": "Greek",
+        "title": "Paper 1: Listening and understanding in Greek Higher Tier",
+        "time": "Afternoon",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-06-12",
+        "examCode": "1GK0 3F",
+        "subject": "Greek",
+        "title": "Paper 3: Reading and understanding in Greek Foundation Tier",
+        "time": "Afternoon",
+        "duration": "0h 50m"
+      },
+      {
+        "date": "2025-06-12",
+        "examCode": "1GK0 3H",
+        "subject": "Greek",
+        "title": "Paper 3: Reading and understanding in Greek Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 05m"
+      },
+      {
+        "date": "2025-06-19",
+        "examCode": "1GK0 4F",
+        "subject": "Greek",
+        "title": "Paper 4: Writing in Greek Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 20m"
+      },
+      {
+        "date": "2025-06-19",
+        "examCode": "1GK0 4H",
+        "subject": "Greek",
+        "title": "Paper 4: Writing in Greek Higher Tier",
+        "time": "Morning",
+        "duration": "1h 25m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "1GN0 1F",
+        "subject": "German",
+        "title": "Paper 1: Listening and understanding in German Foundation Tier",
+        "time": "Afternoon",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "1GN0 1H",
+        "subject": "German",
+        "title": "Paper 1: Listening and understanding in German Higher Tier",
+        "time": "Afternoon",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "1GN0 3F",
+        "subject": "German",
+        "title": "Paper 3: Reading and understanding in German Foundation Tier",
+        "time": "Afternoon",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "1GN0 3H",
+        "subject": "German",
+        "title": "Paper 3: Reading and understanding in German Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 00m"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "1GN0 4F",
+        "subject": "German",
+        "title": "Paper 4: Writing in German Foundation Tier",
+        "time": "Afternoon",
+        "duration": "1h 15m"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "1GN0 4H",
+        "subject": "German",
+        "title": "Paper 4: Writing in German Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 20m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "1GU0 1F",
+        "subject": "Gujarati",
+        "title": "Paper 1: Listening and understanding in Gujarati Foundation Tier",
+        "time": "Morning",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "1GU0 1H",
+        "subject": "Gujarati",
+        "title": "Paper 1: Listening and understanding in Gujarati Higher Tier",
+        "time": "Morning",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "1GU0 3F",
+        "subject": "Gujarati",
+        "title": "Paper 3: Reading and understanding in Gujarati Foundation Tier",
+        "time": "Morning",
+        "duration": "0h 50m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "1GU0 3H",
+        "subject": "Gujarati",
+        "title": "Paper 3: Reading and understanding in Gujarati Higher Tier",
+        "time": "Morning",
+        "duration": "1h 05m"
+      },
+      {
+        "date": "2025-06-10",
+        "examCode": "1GU0 4F",
+        "subject": "Gujarati",
+        "title": "Paper 4: Writing in Gujarati Foundation Tier",
+        "time": "Afternoon",
+        "duration": "1h 20m"
+      },
+      {
+        "date": "2025-06-10",
+        "examCode": "1GU0 4H",
+        "subject": "Gujarati",
+        "title": "Paper 4: Writing in Gujarati Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 25m"
+      },
+      {
+        "date": "2025-05-16",
+        "examCode": "1HI0 10-13",
+        "subject": "History",
+        "title": "Paper 1: Thematic study and historic environment",
+        "time": "Morning",
+        "duration": "1h 20m"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "1HI0 2A-2W",
+        "subject": "History",
+        "title": "Paper 2: Period study & British depth study ",
+        "time": "Morning",
+        "duration": "1h 50m"
+      },
+      {
+        "date": "2025-06-10",
+        "examCode": "1HI0 30-33",
+        "subject": "History",
+        "title": "Paper 3: Modern depth study",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "1IN0 1F",
+        "subject": "Italian",
+        "title": "Paper 1: Listening and understanding in Italian Foundation Tier",
+        "time": "Morning",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "1IN0 1H",
+        "subject": "Italian",
+        "title": "Paper 1: Listening and understanding in Italian Higher Tier",
+        "time": "Morning",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "1IN0 3F",
+        "subject": "Italian",
+        "title": "Paper 3: Reading and understanding in Italian Foundation Tier",
+        "time": "Morning",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "1IN0 3H",
+        "subject": "Italian",
+        "title": "Paper 3: Reading and understanding in Italian Higher Tier",
+        "time": "Morning",
+        "duration": "1h 00m"
+      },
+      {
+        "date": "2025-06-09",
+        "examCode": "1IN0 4F",
+        "subject": "Italian",
+        "title": "Paper 4: Writing in Italian Foundation Tier",
+        "time": "Afternoon",
+        "duration": "1h 15m"
+      },
+      {
+        "date": "2025-06-09",
+        "examCode": "1IN0 4H",
+        "subject": "Italian",
+        "title": "Paper 4: Writing in Italian Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 20m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "1JA0 1F",
+        "subject": "Japanese",
+        "title": "Paper 1: Listening and understanding in Japanese Foundation Tier",
+        "time": "Afternoon",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "1JA0 1H",
+        "subject": "Japanese",
+        "title": "Paper 1: Listening and understanding in Japanese Higher Tier",
+        "time": "Afternoon",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "1JA0 3F",
+        "subject": "Japanese",
+        "title": "Paper 3: Reading and understanding in Japanese Foundation Tier",
+        "time": "Afternoon",
+        "duration": "0h 50m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "1JA0 3H",
+        "subject": "Japanese",
+        "title": "Paper 3: Reading and understanding in Japanese Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 05m"
+      },
+      {
+        "date": "2025-06-10",
+        "examCode": "1JA0 4F",
+        "subject": "Japanese",
+        "title": "Paper 4: Writing in Japanese Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 20m"
+      },
+      {
+        "date": "2025-06-10",
+        "examCode": "1JA0 4H",
+        "subject": "Japanese",
+        "title": "Paper 4: Writing in Japanese Higher Tier",
+        "time": "Morning",
+        "duration": "1h 25m"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "1MA1 1F",
+        "subject": "Mathematics",
+        "title": "Paper 1 (Non-Calculator) Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "1MA1 1H",
+        "subject": "Mathematics",
+        "title": "Paper 1 (Non-Calculator) Higher Tier",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-04",
+        "examCode": "1MA1 2F",
+        "subject": "Mathematics",
+        "title": "Paper 2 (Calculator) Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-04",
+        "examCode": "1MA1 2H",
+        "subject": "Mathematics",
+        "title": "Paper 2 (Calculator) Higher Tier",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-11",
+        "examCode": "1MA1 3F",
+        "subject": "Mathematics",
+        "title": "Paper 3 (Calculator) Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-11",
+        "examCode": "1MA1 3H",
+        "subject": "Mathematics",
+        "title": "Paper 3 (Calculator) Higher Tier",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-16",
+        "examCode": "1MU0 03",
+        "subject": "Music",
+        "title": "Component 3: Appraising",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "1PE0 01",
+        "subject": "Physical Education",
+        "title": "Component 1: Fitness and Body Systems",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-09",
+        "examCode": "1PE0 02",
+        "subject": "Physical Education",
+        "title": "Component 2: Health and Performance",
+        "time": "Afternoon",
+        "duration": "1h 15m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "1PG0 1F",
+        "subject": "Portuguese",
+        "title": "Paper 1: Listening and understanding in Portuguese Foundation Tier",
+        "time": "Morning",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "1PG0 1H",
+        "subject": "Portuguese",
+        "title": "Paper 1: Listening and understanding in Portuguese Higher Tier",
+        "time": "Morning",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "1PG0 3F",
+        "subject": "Portuguese",
+        "title": "Paper 3: Reading and understanding in Portuguese Foundation Tier",
+        "time": "Morning",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "1PG0 3H",
+        "subject": "Portuguese",
+        "title": "Paper 3: Reading and understanding in Portuguese Higher Tier",
+        "time": "Morning",
+        "duration": "1h 00m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "1PG0 4F",
+        "subject": "Portuguese",
+        "title": "Paper 4: Writing in Portuguese Foundation Tier",
+        "time": "Afternoon",
+        "duration": "1h 15m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "1PG0 4H",
+        "subject": "Portuguese",
+        "title": "Paper 4: Writing in Portuguese Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 20m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "1PH0 1F",
+        "subject": "Physics",
+        "title": "Paper 1 Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "1PH0 1H",
+        "subject": "Physics",
+        "title": "Paper 1 Higher Tier",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-16",
+        "examCode": "1PH0 2F",
+        "subject": "Physics",
+        "title": "Paper 2 Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-16",
+        "examCode": "1PH0 2H",
+        "subject": "Physics",
+        "title": "Paper 2 Higher Tier",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "1PN0 1F",
+        "subject": "Persian",
+        "title": "Paper 1: Listening and understanding in Persian Foundation Tier",
+        "time": "Afternoon",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "1PN0 1H",
+        "subject": "Persian",
+        "title": "Paper 1: Listening and understanding in Persian Higher Tier",
+        "time": "Afternoon",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "1PN0 3F",
+        "subject": "Persian",
+        "title": "Paper 3: Reading and understanding in Persian Foundation Tier",
+        "time": "Afternoon",
+        "duration": "0h 50m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "1PN0 3H",
+        "subject": "Persian",
+        "title": "Paper 3: Reading and understanding in Persian Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 05m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "1PN0 4F",
+        "subject": "Persian",
+        "title": "Paper 4: Writing in Persian Foundation Tier",
+        "time": "Afternoon",
+        "duration": "1h 20m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "1PN0 4H",
+        "subject": "Persian",
+        "title": "Paper 4: Writing in Persian Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 25m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "1PS0 01",
+        "subject": "Psychology",
+        "title": "Paper 1",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "1PS0 02",
+        "subject": "Psychology",
+        "title": "Paper 2",
+        "time": "Afternoon",
+        "duration": "1h 20m"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "1RA0 1A-1C",
+        "subject": "Religious Studies A",
+        "title": "Paper 1: Area of Study 1 – Study of Religion",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "1RA0 2A-2G",
+        "subject": "Religious Studies A",
+        "title": "Paper 2: Area of Study 2 – Study of Second Religion",
+        "time": "Afternoon",
+        "duration": "0h 50m"
+      },
+      {
+        "date": "2025-06-04",
+        "examCode": "1RA0 3A-3C",
+        "subject": "Religious Studies A",
+        "title": "Paper 3: Area of Study 3 – Philosophy and Ethics",
+        "time": "Afternoon",
+        "duration": "0h 50m"
+      },
+      {
+        "date": "2025-06-04",
+        "examCode": "1RA0 4A-4B",
+        "subject": "Religious Studies A",
+        "title": "Paper 4: Area of Study 4 – Textual Studies",
+        "time": "Afternoon",
+        "duration": "0h 50m"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "1RB0 1A-1G",
+        "subject": "Religious Studies B",
+        "title": "Paper 1: Area of Study 1 – Religion and Ethics",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "1RB0 2A-2G",
+        "subject": "Religious Studies B",
+        "title": "Paper 2: Area of Study 2 – Religion, Peace and Conflict",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-04",
+        "examCode": "1RB0 3A-3G",
+        "subject": "Religious Studies B",
+        "title": "Paper 3: Area of Study 3 – Religion, Philosophy and Social Justice",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "1RU0 1F",
+        "subject": "Russian",
+        "title": "Paper 1: Listening and understanding in Russian Foundation Tier",
+        "time": "Morning",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "1RU0 1H",
+        "subject": "Russian",
+        "title": "Paper 1: Listening and understanding in Russian Higher Tier",
+        "time": "Morning",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "1RU0 3F",
+        "subject": "Russian",
+        "title": "Paper 3: Reading and understanding in Russian Foundation Tier",
+        "time": "Morning",
+        "duration": "0h 50m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "1RU0 3H",
+        "subject": "Russian",
+        "title": "Paper 3: Reading and understanding in Russian Higher Tier",
+        "time": "Morning",
+        "duration": "1h 05m"
+      },
+      {
+        "date": "2025-06-12",
+        "examCode": "1RU0 4F",
+        "subject": "Russian",
+        "title": "Paper 4: Writing in Russian Foundation Tier",
+        "time": "Afternoon",
+        "duration": "1h 20m"
+      },
+      {
+        "date": "2025-06-12",
+        "examCode": "1RU0 4H",
+        "subject": "Russian",
+        "title": "Paper 4: Writing in Russian Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 25m"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "1SC0 1BF",
+        "subject": "Combined Science",
+        "title": "Paper 1: Biology 1 Foundation Tier",
+        "time": "Afternoon",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "1SC0 1BH",
+        "subject": "Combined Science",
+        "title": "Paper 1: Biology 1 Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "1SC0 1CF",
+        "subject": "Combined Science",
+        "title": "Paper 2: Chemistry 1 Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "1SC0 1CH",
+        "subject": "Combined Science",
+        "title": "Paper 2: Chemistry 1 Higher Tier",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "1SC0 1PF",
+        "subject": "Combined Science",
+        "title": "Paper 3: Physics 1 Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "1SC0 1PH",
+        "subject": "Combined Science",
+        "title": "Paper 3: Physics 1 Higher Tier",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-06-09",
+        "examCode": "1SC0 2BF",
+        "subject": "Combined Science",
+        "title": "Paper 4: Biology 2 Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-06-09",
+        "examCode": "1SC0 2BH",
+        "subject": "Combined Science",
+        "title": "Paper 4: Biology 2 Higher Tier",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "1SC0 2CF",
+        "subject": "Combined Science",
+        "title": "Paper 5: Chemistry 2 Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "1SC0 2CH",
+        "subject": "Combined Science",
+        "title": "Paper 5: Chemistry 2 Higher Tier",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-06-16",
+        "examCode": "1SC0 2PF",
+        "subject": "Combined Science",
+        "title": "Paper 6: Physics 2 Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-06-16",
+        "examCode": "1SC0 2PH",
+        "subject": "Combined Science",
+        "title": "Paper 6: Physics 2 Higher Tier",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-06-10",
+        "examCode": "1SP0 1F",
+        "subject": "Spanish",
+        "title": "Paper 1: Listening and understanding in Spanish Foundation Tier",
+        "time": "Morning",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-06-10",
+        "examCode": "1SP0 1H",
+        "subject": "Spanish",
+        "title": "Paper 1: Listening and understanding in Spanish Higher Tier",
+        "time": "Morning",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-06-10",
+        "examCode": "1SP0 3F",
+        "subject": "Spanish",
+        "title": "Paper 3: Reading and understanding in Spanish Foundation Tier",
+        "time": "Morning",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-06-10",
+        "examCode": "1SP0 3H",
+        "subject": "Spanish",
+        "title": "Paper 3: Reading and understanding in Spanish Higher Tier",
+        "time": "Morning",
+        "duration": "1h 00m"
+      },
+      {
+        "date": "2025-06-17",
+        "examCode": "1SP0 4F",
+        "subject": "Spanish",
+        "title": "Paper 4: Writing in Spanish Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 15m"
+      },
+      {
+        "date": "2025-06-17",
+        "examCode": "1SP0 4H",
+        "subject": "Spanish",
+        "title": "Paper 4: Writing in Spanish Higher Tier",
+        "time": "Morning",
+        "duration": "1h 20m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "1ST0 1F",
+        "subject": "Statistics",
+        "title": "Paper 1 Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "1ST0 1H",
+        "subject": "Statistics",
+        "title": "Paper 1 Higher Tier",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "1ST0 2F",
+        "subject": "Statistics",
+        "title": "Paper 2 Foundation Tier",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "1ST0 2H",
+        "subject": "Statistics",
+        "title": "Paper 2 Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "1TU0 1F",
+        "subject": "Turkish",
+        "title": "Paper 1: Listening and understanding in Turkish Foundation Tier",
+        "time": "Morning",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "1TU0 1H",
+        "subject": "Turkish",
+        "title": "Paper 1: Listening and understanding in Turkish Higher Tier",
+        "time": "Morning",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "1TU0 3F",
+        "subject": "Turkish",
+        "title": "Paper 3: Reading and understanding in Turkish Foundation Tier",
+        "time": "Morning",
+        "duration": "0h 50m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "1TU0 3H",
+        "subject": "Turkish",
+        "title": "Paper 3: Reading and understanding in Turkish Higher Tier",
+        "time": "Morning",
+        "duration": "1h 05m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "1TU0 4F",
+        "subject": "Turkish",
+        "title": "Paper 4: Writing in Turkish Foundation Tier",
+        "time": "Afternoon",
+        "duration": "1h 20m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "1TU0 4H",
+        "subject": "Turkish",
+        "title": "Paper 4: Writing in Turkish Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 25m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "1UR0 1F",
+        "subject": "Urdu",
+        "title": "Paper 1: Listening and understanding in Urdu Foundation Tier",
+        "time": "Afternoon",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "1UR0 1H",
+        "subject": "Urdu",
+        "title": "Paper 1: Listening and understanding in Urdu Higher Tier",
+        "time": "Afternoon",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "1UR0 3F",
+        "subject": "Urdu",
+        "title": "Paper 3: Reading and understanding in Urdu Foundation Tier",
+        "time": "Afternoon",
+        "duration": "0h 50m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "1UR0 3H",
+        "subject": "Urdu",
+        "title": "Paper 3: Reading and understanding in Urdu Higher Tier",
+        "time": "Afternoon",
+        "duration": "1h 05m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "1UR0 4F",
+        "subject": "Urdu",
+        "title": "Paper 4: Writing in Urdu Foundation Tier",
+        "time": "Morning",
+        "duration": "1h 20m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "1UR0 4H",
+        "subject": "Urdu",
+        "title": "Paper 4: Writing in Urdu Higher Tier",
+        "time": "Morning",
+        "duration": "1h 25m"
+      }
+    ]
+  },
+  "GCE": {
+    "exams": [
+      {
+        "date": "2025-05-12",
+        "examCode": "8BI0 01",
+        "subject": "Biology B",
+        "title": "Paper 1: Core Cellular Biology and Microbiology",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "8BI0 02",
+        "subject": "Biology B",
+        "title": "Paper 2: Core Physiology and Ecology",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "8BN0 01",
+        "subject": "Biology A (Salters Nuffield)",
+        "title": "Paper 1: Lifestyle, Transport, Genes and Health",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "8BN0 02",
+        "subject": "Biology A (Salters Nuffield)",
+        "title": "Paper 2: Development, Plants and the Environment",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-16",
+        "examCode": "8BS0 01",
+        "subject": "Business",
+        "title": "Paper 1: Marketing and People",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "8BS0 02",
+        "subject": "Business",
+        "title": "Paper 2: Managing Business Activities",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "8CH0 01",
+        "subject": "Chemistry",
+        "title": "Paper 1: Core Inorganic and Physical Chemistry",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-20",
+        "examCode": "8CH0 02",
+        "subject": "Chemistry",
+        "title": "Paper 2: Core Organic and Physical Chemistry",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "8EC0 01",
+        "subject": "Economics A",
+        "title": "Paper 1: Introduction to Markets and Market Failure",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "8EC0 02",
+        "subject": "Economics A",
+        "title": "Paper 2: The UK Economy - Performance and Policies",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "8EL0 01",
+        "subject": "English Language & Literature",
+        "title": "Paper 1: Voices in Speech and Writing",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "8EL0 02",
+        "subject": "English Language & Literature",
+        "title": "Paper 2: Varieties in Language and Literature",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "8EN0 01",
+        "subject": "English Language",
+        "title": "Paper 1: Language: Context and Identity",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "8EN0 02",
+        "subject": "English Language",
+        "title": "Paper 2: Child Language",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "8ET0 01",
+        "subject": "English Literature",
+        "title": "Paper 1: Poetry & Drama",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-23",
+        "examCode": "8ET0 02",
+        "subject": "English Literature",
+        "title": "Paper 2: Prose",
+        "time": "Morning",
+        "duration": "1h 15m"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "8FM0 01",
+        "subject": "Further Mathematics",
+        "title": "Paper 1: Core Pure Mathematics ",
+        "time": "Afternoon",
+        "duration": "1h 40m"
+      },
+      {
+        "date": "2025-05-16",
+        "examCode": "8FM0 2A-2K",
+        "subject": "Further Mathematics",
+        "title": "Paper 2: Further Mathematics Options",
+        "time": "Afternoon",
+        "duration": "1h 40m"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "8GE0 01",
+        "subject": "Geography",
+        "title": "Paper 1: Dynamic Landscapes",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "8GE0 02",
+        "subject": "Geography",
+        "title": "Paper 2: Dynamic Places",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "8HI0 1A-1H",
+        "subject": "History",
+        "title": "Paper 1: Breadth study with interpretations",
+        "time": "Afternoon",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "8HI0 2A-2H",
+        "subject": "History",
+        "title": "Paper 2: Depth Study",
+        "time": "Afternoon",
+        "duration": "1h  30m"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "8MA0 01",
+        "subject": "Mathematics",
+        "title": "Paper 1: Pure Mathematics",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-23",
+        "examCode": "8MA0 02",
+        "subject": "Mathematics",
+        "title": "Paper 2: Statistics and Mechanics",
+        "time": "Afternoon",
+        "duration": "1h 15m"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "8MT0 03",
+        "subject": "Music Technology",
+        "title": "Component 3: Listening and analysing",
+        "time": "Morning",
+        "duration": "1h 15m"
+      },
+      {
+        "date": "2025-05-23",
+        "examCode": "8MT0 04",
+        "subject": "Music Technology",
+        "title": "Component 4: Producing and analysing",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "8PH0 01",
+        "subject": "Physics",
+        "title": "Paper 1: Core Physics I",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "8PH0 02",
+        "subject": "Physics",
+        "title": "Paper 2: Core Physics II",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "8PL0 01",
+        "subject": "Politics",
+        "title": "Paper 1: UK Politics",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "8PL0 02",
+        "subject": "Politics",
+        "title": "Paper 2: UK Government",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "8PS0 01",
+        "subject": "Psychology",
+        "title": "Paper 1: Social and Cognitive Psychology",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-20",
+        "examCode": "8PS0 02",
+        "subject": "Psychology",
+        "title": "Paper 2: Biological Psychology and Learning Theories",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-16",
+        "examCode": "8RS0 01",
+        "subject": "Religious Studies",
+        "title": "Paper 1: Philosophy of Religion",
+        "time": "Morning",
+        "duration": "1h 00m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "8RS0 02",
+        "subject": "Religious Studies",
+        "title": "Paper 2: Religion and Ethics",
+        "time": "Morning",
+        "duration": "1h 00m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "8RS0 03",
+        "subject": "Religious Studies",
+        "title": "Paper 3: New Testament Studies",
+        "time": "Afternoon",
+        "duration": "1h 00m"
+      },
+      {
+        "date": "2025-06-06",
+        "examCode": "8RS0 4A-4F",
+        "subject": "Religious Studies",
+        "title": "Paper 4: Study of Religion",
+        "time": "Morning",
+        "duration": "1h 00m"
+      },
+      {
+        "date": "2025-06-24",
+        "examCode": "9811 01",
+        "subject": "Mathematics",
+        "title": "Advanced Extension Award Mathematics",
+        "time": "Afternoon",
+        "duration": "3h 00m"
+      },
+      {
+        "date": "2025-05-20",
+        "examCode": "9AA0 01",
+        "subject": "Arabic",
+        "title": "Paper 1: Translation into English, reading comprehension and writing (research question) in Arabic",
+        "time": "Afternoon",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "9AA0 02",
+        "subject": "Arabic",
+        "title": "Paper 2: Translation into Arabic and written response to works",
+        "time": "Morning",
+        "duration": "2h 40m"
+      },
+      {
+        "date": "2025-06-12",
+        "examCode": "9AA0 03",
+        "subject": "Arabic",
+        "title": "Paper 3: Listening, reading and writing in Arabic",
+        "time": "Morning",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "9BI0 01",
+        "subject": "Biology B",
+        "title": "Paper 1: Advanced Biochemistry, Microbiology and Genetics",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "9BI0 02",
+        "subject": "Biology B",
+        "title": "Paper 2: Advanced Physiology, Evolution and Ecology",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-18",
+        "examCode": "9BI0 03",
+        "subject": "Biology B",
+        "title": "Paper 3: General and Practical Principles in Biology",
+        "time": "Morning",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "9BN0 01",
+        "subject": "Biology A (Salters Nuffield)",
+        "title": "Paper 1: The Natural Environment and Species Survival",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "9BN0 02",
+        "subject": "Biology A (Salters Nuffield)",
+        "title": "Paper 2: Energy, Exercise and Co-ordination",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-18",
+        "examCode": "9BN0 03",
+        "subject": "Biology A (Salters Nuffield)",
+        "title": "Paper 3: General and Practical Applications in Biology",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "9BS0 01",
+        "subject": "Business",
+        "title": "Paper 1: Marketing, people and global businesses",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-20",
+        "examCode": "9BS0 02",
+        "subject": "Business",
+        "title": "Paper 2: Business activities, decisions and strategy",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-09",
+        "examCode": "9BS0 03",
+        "subject": "Business",
+        "title": "Paper 3: Investigating business in a competitive environment",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-10",
+        "examCode": "9CH0 01",
+        "subject": "Chemistry",
+        "title": "Paper 1: Advanced Inorganic and Physical Chemistry",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-16",
+        "examCode": "9CH0 02",
+        "subject": "Chemistry",
+        "title": "Paper 2: Advanced Organic and Physical Chemistry",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-20",
+        "examCode": "9CH0 03",
+        "subject": "Chemistry",
+        "title": "Paper 3: General and Practical Principles in Chemistry",
+        "time": "Morning",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-05-20",
+        "examCode": "9CN0 01",
+        "subject": "Chinese",
+        "title": "Paper 1: Listening, Reading and Translation",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "9CN0 02",
+        "subject": "Chinese",
+        "title": "Paper 2: Written response to works and translation",
+        "time": "Afternoon",
+        "duration": "2h 40m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "9DR0 03",
+        "subject": "Drama And Theatre",
+        "title": "Component 3: Theatre Makers in Practice",
+        "time": "Morning",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "9DT0 01",
+        "subject": "Design And Technology",
+        "title": "Component 1: Design and Technology (Product Design)",
+        "time": "Morning",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "9EB0 01",
+        "subject": "Economics B (Economics & Business)",
+        "title": "Paper 1: Markets and how they work",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "9EB0 02",
+        "subject": "Economics B (Economics & Business)",
+        "title": "Paper 2: Competing in the global economy",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "9EB0 03",
+        "subject": "Economics B (Economics & Business)",
+        "title": "Paper 3: The economic environment and business",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "9EC0 01",
+        "subject": "Economics A",
+        "title": "Paper 1: Markets and Business Behaviour",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "9EC0 02",
+        "subject": "Economics A",
+        "title": "Paper 2: The National and Global Economy",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "9EC0 03",
+        "subject": "Economics A",
+        "title": "Paper 3: Microeconomics and Macroeconomics",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "9EL0 01",
+        "subject": "English Language & Literature",
+        "title": "Paper 1: Voices in Speech and Writing",
+        "time": "Afternoon",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-06-04",
+        "examCode": "9EL0 02",
+        "subject": "English Language & Literature",
+        "title": "Paper 2: Varieties in Language and Literature",
+        "time": "Afternoon",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "9EN0 01",
+        "subject": "English Language",
+        "title": "Paper 1: Language Variation",
+        "time": "Afternoon",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-06-04",
+        "examCode": "9EN0 02",
+        "subject": "English Language",
+        "title": "Paper 2: Child Language",
+        "time": "Afternoon",
+        "duration": "1h 15m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "9EN0 03",
+        "subject": "English Language",
+        "title": "Paper 3: Investigating Language",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "9ET0 01",
+        "subject": "English Literature",
+        "title": "Paper 1: Drama",
+        "time": "Afternoon",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "9ET0 02",
+        "subject": "English Literature",
+        "title": "Paper 2: Prose",
+        "time": "Morning",
+        "duration": "1h 15m"
+      },
+      {
+        "date": "2025-06-11",
+        "examCode": "9ET0 03",
+        "subject": "English Literature",
+        "title": "Paper 3: Poetry",
+        "time": "Morning",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-05-20",
+        "examCode": "9FM0 01",
+        "subject": "Further Mathematics",
+        "title": "Paper 1: Core Pure Mathematics 1",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "9FM0 02",
+        "subject": "Further Mathematics",
+        "title": "Paper 2: Core Pure Mathematics 2",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-18",
+        "examCode": "9FM0 3A",
+        "subject": "Further Mathematics",
+        "title": "Paper 3A: Further Pure Mathematics 1",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "9FM0 3B",
+        "subject": "Further Mathematics",
+        "title": "Paper 3B: Further Statistics 1",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-06",
+        "examCode": "9FM0 3C",
+        "subject": "Further Mathematics",
+        "title": "Paper 3C: Further Mechanics 1",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-20",
+        "examCode": "9FM0 3D",
+        "subject": "Further Mathematics",
+        "title": "Paper 3D: Decision Mathematics 1",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-23",
+        "examCode": "9FM0 4A",
+        "subject": "Further Mathematics",
+        "title": "Paper 4A: Further Pure Mathematics 2",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-23",
+        "examCode": "9FM0 4B",
+        "subject": "Further Mathematics",
+        "title": "Paper 4B: Further Statistics 2",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-23",
+        "examCode": "9FM0 4C",
+        "subject": "Further Mathematics",
+        "title": "Paper 4C: Further Mechanics 2",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-23",
+        "examCode": "9FM0 4D",
+        "subject": "Further Mathematics",
+        "title": "Paper 4D: Decision Mathematics 2",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-06",
+        "examCode": "9FR0 01",
+        "subject": "French",
+        "title": "Paper 1: Listening, reading and translation",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-16",
+        "examCode": "9FR0 02",
+        "subject": "French",
+        "title": "Paper 2: Written response to works and translation",
+        "time": "Morning",
+        "duration": "2h 40m"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "9GE0 01",
+        "subject": "Geography",
+        "title": "Paper 1",
+        "time": "Morning",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "9GE0 02",
+        "subject": "Geography",
+        "title": "Paper 2",
+        "time": "Afternoon",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-06-06",
+        "examCode": "9GE0 03",
+        "subject": "Geography",
+        "title": "Paper 3",
+        "time": "Morning",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "9GK0 01",
+        "subject": "Greek",
+        "title": "Paper 1: Translation into English, reading comprehension and writing (research question) in Greek",
+        "time": "Morning",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "9GK0 02",
+        "subject": "Greek",
+        "title": "Paper 2: Translation into Greek and written response to works",
+        "time": "Afternoon",
+        "duration": "2h 40m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "9GK0 03",
+        "subject": "Greek",
+        "title": "Paper 3: Listening, reading and writing in Greek",
+        "time": "Afternoon",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-05-20",
+        "examCode": "9GN0 01",
+        "subject": "German",
+        "title": "Paper 1: Listening, reading and translation",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-09",
+        "examCode": "9GN0 02",
+        "subject": "German",
+        "title": "Paper 2: Written response to works and translation",
+        "time": "Morning",
+        "duration": "2h 40m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "9GU0 01",
+        "subject": "Gujarati",
+        "title": "Paper 1: Translation into English, reading comprehension and writing (research question) in Gujarati",
+        "time": "Afternoon",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "9GU0 02",
+        "subject": "Gujarati",
+        "title": "Paper 2: Translation into Gujarati and written response to works",
+        "time": "Afternoon",
+        "duration": "2h 40m"
+      },
+      {
+        "date": "2025-06-12",
+        "examCode": "9GU0 03",
+        "subject": "Gujarati",
+        "title": "Paper 3: Listening, reading and writing in Gujarati",
+        "time": "Afternoon",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-05-23",
+        "examCode": "9HI0 1A-1H",
+        "subject": "History",
+        "title": "Paper 1: Breadth study with interpretations",
+        "time": "Morning",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-06-06",
+        "examCode": "9HI0 2A-2H",
+        "subject": "History",
+        "title": "Paper 2: Depth Study",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-12",
+        "examCode": "9HI0 30-39",
+        "subject": "History",
+        "title": "Paper 3: Themes in breadth with aspects in depth",
+        "time": "Morning",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "9HT0 01",
+        "subject": "History Of Art",
+        "title": "Paper 1: Visual analysis and themes",
+        "time": "Afternoon",
+        "duration": "3h 00m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "9HT0 02",
+        "subject": "History Of Art",
+        "title": "Paper 2: Periods",
+        "time": "Morning",
+        "duration": "3h 00m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "9IN0 01",
+        "subject": "Italian",
+        "title": "Paper 1: Listening, reading and translation",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-20",
+        "examCode": "9IN0 02",
+        "subject": "Italian",
+        "title": "Paper 2: Written response to works and translation",
+        "time": "Morning",
+        "duration": "2h 40m"
+      },
+      {
+        "date": "2025-05-20",
+        "examCode": "9JA0 01",
+        "subject": "Japanese",
+        "title": "Paper 1: Translation into English, reading comprehension and writing (research question)",
+        "time": "Afternoon",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "9JA0 02",
+        "subject": "Japanese",
+        "title": "Paper 2: Translation into Japanese and written response to works",
+        "time": "Afternoon",
+        "duration": "2h 40m"
+      },
+      {
+        "date": "2025-06-12",
+        "examCode": "9JA0 03",
+        "subject": "Japanese",
+        "title": "Paper 3: Listening, reading and writing",
+        "time": "Afternoon",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-06-04",
+        "examCode": "9MA0 01",
+        "subject": "Mathematics",
+        "title": "Paper 1: Pure Mathematics 1",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-12",
+        "examCode": "9MA0 02",
+        "subject": "Mathematics",
+        "title": "Paper 2: Pure Mathematics 2",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-19",
+        "examCode": "9MA0 03",
+        "subject": "Mathematics",
+        "title": "Paper 3: Statistics & Mechanics",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "9MT0 03",
+        "subject": "Music Technology",
+        "title": "Component 3: Listening and analysing",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-04",
+        "examCode": "9MT0 04",
+        "subject": "Music Technology",
+        "title": "Component 4: Producing and analysing",
+        "time": "Morning",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-06-09",
+        "examCode": "9MU0 03",
+        "subject": "Music",
+        "title": "Component 3: Appraising",
+        "time": "Afternoon",
+        "duration": "2h 10m"
+      },
+      {
+        "date": "2025-05-23",
+        "examCode": "9PE0 01",
+        "subject": "Physical Education",
+        "title": "Component 1: Scientific Principles of Physical Education",
+        "time": "Morning",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-06-04",
+        "examCode": "9PE0 02",
+        "subject": "Physical Education",
+        "title": "Component 2: Psychological and Social Principles of Physical Education",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "9PG0 01",
+        "subject": "Portuguese",
+        "title": "Paper 1: Translation into English, reading comprehension and writing (research question) in Portuguese",
+        "time": "Morning",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "9PG0 02",
+        "subject": "Portuguese",
+        "title": "Paper 2: Translation into Portuguese and written response to works",
+        "time": "Afternoon",
+        "duration": "2h 40m"
+      },
+      {
+        "date": "2025-06-12",
+        "examCode": "9PG0 03",
+        "subject": "Portuguese",
+        "title": "Paper 3: Listening, reading and writing in Portuguese",
+        "time": "Morning",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-05-23",
+        "examCode": "9PH0 01",
+        "subject": "Physics",
+        "title": "Paper 1: Advanced Physics I",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-09",
+        "examCode": "9PH0 02",
+        "subject": "Physics",
+        "title": "Paper 2: Advanced Physics II",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-17",
+        "examCode": "9PH0 03",
+        "subject": "Physics",
+        "title": "Paper 3: General and Practical Principles in Physics",
+        "time": "Morning",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-05-20",
+        "examCode": "9PL0 01",
+        "subject": "Politics",
+        "title": "Paper 1: UK Politics and Core Political Ideas",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "9PL0 02",
+        "subject": "Politics",
+        "title": "Paper 2: UK Government and Non-core Political Ideas",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-10",
+        "examCode": "9PL0 3A",
+        "subject": "Politics",
+        "title": "Paper 3A: Comparative Politics - USA",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-10",
+        "examCode": "9PL0 3B",
+        "subject": "Politics",
+        "title": "Paper 3B: Comparative Politics - Global Politics",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "9PN0 01",
+        "subject": "Persian",
+        "title": "Paper 1: Translation into English, reading comprehension and writing (research question) in Persian",
+        "time": "Morning",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-06-06",
+        "examCode": "9PN0 02",
+        "subject": "Persian",
+        "title": "Paper 2: Translation into Persian and written response to works",
+        "time": "Morning",
+        "duration": "2h 40m"
+      },
+      {
+        "date": "2025-06-16",
+        "examCode": "9PN0 03",
+        "subject": "Persian",
+        "title": "Paper 3: Listening, reading and writing in Persian",
+        "time": "Afternoon",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-05-16",
+        "examCode": "9PS0 01",
+        "subject": "Psychology",
+        "title": "Paper 1: Foundations in Psychology",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "9PS0 02",
+        "subject": "Psychology",
+        "title": "Paper 2: Applications of Psychology",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-09",
+        "examCode": "9PS0 03",
+        "subject": "Psychology",
+        "title": "Paper 3: Psychological Skills",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-10",
+        "examCode": "9RS0 01",
+        "subject": "Religious Studies",
+        "title": "Paper 1: Philosophy of Religion",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-17",
+        "examCode": "9RS0 02",
+        "subject": "Religious Studies",
+        "title": "Paper 2: Religion and Ethics",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-20",
+        "examCode": "9RS0 03",
+        "subject": "Religious Studies",
+        "title": "Paper 3: New Testament Studies",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-23",
+        "examCode": "9RS0 4A-4F",
+        "subject": "Religious Studies",
+        "title": "Paper 4: Study of Religion",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-23",
+        "examCode": "9RU0 01",
+        "subject": "Russian",
+        "title": "Paper 1: Listening, reading and translation",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "9RU0 02",
+        "subject": "Russian",
+        "title": "Paper 2: Written response to works and translation",
+        "time": "Morning",
+        "duration": "2h 40m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "9SP0 01",
+        "subject": "Spanish",
+        "title": "Paper 1: Listening, reading and translation",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-11",
+        "examCode": "9SP0 02",
+        "subject": "Spanish",
+        "title": "Paper 2: Written response to works and translation",
+        "time": "Morning",
+        "duration": "2h 40m"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "9ST0 01",
+        "subject": "Statistics",
+        "title": "Paper 1: Data and Probability",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-10",
+        "examCode": "9ST0 02",
+        "subject": "Statistics",
+        "title": "Paper 2: Statistical Inference",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-17",
+        "examCode": "9ST0 03",
+        "subject": "Statistics",
+        "title": "Paper 3: Statistics in Practice",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "9TU0 01",
+        "subject": "Turkish",
+        "title": "Paper 1: Translation into English, reading comprehension and writing (research question) in Turkish",
+        "time": "Morning",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "9TU0 02",
+        "subject": "Turkish",
+        "title": "Paper 2: Translation into Turkish and written response to works",
+        "time": "Afternoon",
+        "duration": "2h 40m"
+      },
+      {
+        "date": "2025-06-12",
+        "examCode": "9TU0 03",
+        "subject": "Turkish",
+        "title": "Paper 3: Listening, reading and writing in Turkish",
+        "time": "Morning",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "9UR0 01",
+        "subject": "Urdu",
+        "title": "Paper 1: Translation into English, reading comprehension and writing (research question) in Urdu",
+        "time": "Morning",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-06-06",
+        "examCode": "9UR0 02",
+        "subject": "Urdu",
+        "title": "Paper 2: Translation into Urdu and written response to works",
+        "time": "Morning",
+        "duration": "2h 40m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "9UR0 03",
+        "subject": "Urdu",
+        "title": "Paper 3: Listening, reading and writing in Urdu",
+        "time": "Morning",
+        "duration": "2h 15m"
+      }
+    ]
+  },
+  "International GCSE": {
+    "exams": [
+      {
+        "date": "2025-05-12",
+        "examCode": "4AC1 01",
+        "subject": "Accounting (Linear)",
+        "title": "Paper 1: Introduction to Bookkeeping and Accounting",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "4AC1 02",
+        "subject": "Accounting (Linear)",
+        "title": "Paper 2: Financial Statements",
+        "time": "Afternoon",
+        "duration": "1h 15m"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "4WAC1 01",
+        "subject": "Accounting (Modular)",
+        "title": "Unit 1: Introduction to Bookkeeping and Accounting",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "4WAC2 01",
+        "subject": "Accounting (Modular)",
+        "title": "Unit 2: Financial Statements",
+        "time": "Afternoon",
+        "duration": "1h 15m"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "4AA1 01",
+        "subject": "Arabic ",
+        "title": "Paper 1: Reading, Summary and Grammar",
+        "time": "Afternoon",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-05-27",
+        "examCode": "4AA1 02",
+        "subject": "Arabic ",
+        "title": "Paper 2: Writing",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-09",
+        "examCode": "4BA0 01",
+        "subject": "Bangla",
+        "title": "Paper 1: Reading, Writing and Translation",
+        "time": "Morning",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "4BN1 01",
+        "subject": "Bangladesh Studies",
+        "title": "Paper 1: History and culture of Bangladesh",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-28",
+        "examCode": "4BN1 02",
+        "subject": "Bangladesh Studies",
+        "title": "Paper 2: The landscape, people and economy of Bangladesh",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "4BI1 1B",
+        "subject": "Biology (Linear)",
+        "title": "Paper: 1B",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-09",
+        "examCode": "4BI1 2B",
+        "subject": "Biology (Linear)",
+        "title": "Paper: 2B",
+        "time": "Morning",
+        "duration": "1h 15m"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "4WBI1 1B",
+        "subject": "Biology (Modular)",
+        "title": "Unit 1",
+        "time": "Afternoon",
+        "duration": "1h 40m"
+      },
+      {
+        "date": "2025-06-09",
+        "examCode": "4WBI2 1B",
+        "subject": "Biology (Modular)",
+        "title": "Unit 2",
+        "time": "Morning",
+        "duration": "1h 40m"
+      },
+      {
+        "date": "2025-05-09",
+        "examCode": "4BS1 01",
+        "subject": "Business ",
+        "title": "Paper 1: Investigating small businesses",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-16",
+        "examCode": "4BS1 02",
+        "subject": "Business ",
+        "title": "Paper 2: Investigating large businesses",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "4CH1 1C",
+        "subject": "Chemistry (Linear)",
+        "title": "Paper: 1C",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "4CH1 2C",
+        "subject": "Chemistry (Linear)",
+        "title": "Paper: 2C",
+        "time": "Morning",
+        "duration": "1h 15m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "4WCH1 1C",
+        "subject": "Chemistry (Modular)",
+        "title": "Unit 1",
+        "time": "Morning",
+        "duration": "1h 40m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "4WCH2 1C",
+        "subject": "Chemistry (Modular)",
+        "title": "Unit 2",
+        "time": "Morning",
+        "duration": "1h 40m"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "4CN1 01",
+        "subject": "Chinese",
+        "title": "Paper 1: Listening",
+        "time": "Afternoon",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "4CN1 02",
+        "subject": "Chinese",
+        "title": "Paper 2: Reading and Writing ",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "4CM1 01",
+        "subject": "Commerce (Linear)",
+        "title": "Paper 1: Commercial operations and associated risks",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-30",
+        "examCode": "4CM1 02",
+        "subject": "Commerce (Linear)",
+        "title": "Paper 2: Facilitating commercial operations",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "4WCM1 01",
+        "subject": "Commerce (Modular)",
+        "title": "Unit 1: Commercial operations and associated risks",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-30",
+        "examCode": "4WCM2 01",
+        "subject": "Commerce (Modular)",
+        "title": "Unit 2: Facilitating commercial operations",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-09",
+        "examCode": "4CP0 01",
+        "subject": "Computer Science",
+        "title": "Paper 1: Principles of Computer Science",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "4CP0 02",
+        "subject": "Computer Science",
+        "title": "Paper 2: Application of Computational Thinking",
+        "time": "Window",
+        "duration": "3h 00m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "4CP0 02",
+        "subject": "Computer Science",
+        "title": "Paper 2: Application of Computational Thinking",
+        "time": "Window",
+        "duration": "3h 00m"
+      },
+      {
+        "date": "2025-06-04",
+        "examCode": "4CP0 02",
+        "subject": "Computer Science",
+        "title": "Paper 2: Application of Computational Thinking",
+        "time": "Window",
+        "duration": "3h 00m"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "4EC1 01",
+        "subject": "Economics (Linear)",
+        "title": "Paper 1: Microeconomics and Business Economics",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "4EC1 02",
+        "subject": "Economics (Linear)",
+        "title": "Paper 2: Macroeconomics and the Global Economy",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "4WEC1 01",
+        "subject": "Economics (Modular)",
+        "title": "Unit 1: Microeconomics and Business Economics",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "4WEC2 01",
+        "subject": "Economics (Modular)",
+        "title": "Unit 2: Macroeconomics and the Global Economy",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "4ES1 01",
+        "subject": "English as a Second Language (Legacy)",
+        "title": "Paper 1: Reading and Writing",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "4ES1 02",
+        "subject": "English as a Second Language (Legacy)",
+        "title": "Paper 2: Listening",
+        "time": "Morning",
+        "duration": "0h 55m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "4WES1 01",
+        "subject": "English as a Second Language ",
+        "title": "Unit 1: Reading",
+        "time": "Morning",
+        "duration": "1h 00m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "4WES2 01",
+        "subject": "English as a Second Language ",
+        "title": "Unit 2: Listening",
+        "time": "Morning",
+        "duration": "0h 45m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "4WES3 01",
+        "subject": "English as a Second Language ",
+        "title": "Unit 3: Writing",
+        "time": "Morning",
+        "duration": "1h 15m"
+      },
+      {
+        "date": "2025-05-23",
+        "examCode": "4EA1 01",
+        "subject": "English Language A (Linear)",
+        "title": "Paper 1: Non-fiction Texts and Transactional Writing",
+        "time": "Morning",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-06-06",
+        "examCode": "4EA1 02",
+        "subject": "English Language A (Linear)",
+        "title": "Paper 2: Poetry and Prose Texts and Imaginative Writing",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-23",
+        "examCode": "4WEA1 01",
+        "subject": "English Language A (Modular)",
+        "title": "Unit 1: Non-fiction Texts and Transactional Writing",
+        "time": "Morning",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-06-06",
+        "examCode": "4WEA2 01",
+        "subject": "English Language A (Modular)",
+        "title": "Unit 2: Poetry and Prose Texts and Imaginative Writing",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-23",
+        "examCode": "4EB1 01",
+        "subject": "English Language B",
+        "title": "Paper 1",
+        "time": "Morning",
+        "duration": "3h 00m"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "4ET1 01",
+        "subject": "English Literature (Linear)",
+        "title": "Paper 1: Poetry and Modern Prose",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-20",
+        "examCode": "4ET1 02",
+        "subject": "English Literature (Linear)",
+        "title": "Paper 2: Modern Drama and Literary Heritage Texts",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "4WET1 01",
+        "subject": "English Literature (Modular)",
+        "title": "Unit 1: Poetry and Modern Prose",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-20",
+        "examCode": "4WET2 01",
+        "subject": "English Literature (Modular)",
+        "title": "Unit 2: Modern Drama and Literary Heritage Texts",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "4FR1 01",
+        "subject": "French",
+        "title": "Paper 1: Listening ",
+        "time": "Morning",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "4FR1 02",
+        "subject": "French",
+        "title": "Paper 2: Reading and Writing ",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-20",
+        "examCode": "4PM1 01",
+        "subject": "Further Pure Mathematics",
+        "title": "Paper 1",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-10",
+        "examCode": "4PM1 02",
+        "subject": "Further Pure Mathematics",
+        "title": "Paper 2",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "4GE1 01",
+        "subject": "Geography (Linear)",
+        "title": "Paper 1: Physical geography",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-06-06",
+        "examCode": "4GE1 02",
+        "subject": "Geography (Linear)",
+        "title": "Paper 2: Human geography",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "4WGE1 01",
+        "subject": "Geography (Modular)",
+        "title": "Unit 1: Physical geography",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-06-06",
+        "examCode": "4WGE2 01",
+        "subject": "Geography (Modular)",
+        "title": "Unit 2: Human geography",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "4GN1 01",
+        "subject": "German",
+        "title": "Paper 1: Listening ",
+        "time": "Afternoon",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "4GN1 02",
+        "subject": "German",
+        "title": "Paper 2: Reading and Writing ",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-09",
+        "examCode": "4GL1 01",
+        "subject": "Global Citizenship",
+        "title": "Paper 1",
+        "time": "Afternoon",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-05-20",
+        "examCode": "4GK1 01",
+        "subject": "Greek (First Language)",
+        "title": "Paper 1: Reading, Summary and Grammar ",
+        "time": "Afternoon",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-05-28",
+        "examCode": "4GK1 02",
+        "subject": "Greek (First Language)",
+        "title": "Paper 2: Writing ",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-16",
+        "examCode": "4HI1 01",
+        "subject": "History (Linear)",
+        "title": "Paper 1: Depth Studies ",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "4HI1 02",
+        "subject": "History (Linear)",
+        "title": "Paper 2: Investigation and Breadth Studies",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-16",
+        "examCode": "4WHI1 01",
+        "subject": "History (Modular)",
+        "title": "Unit 1: Depth Studies ",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "4WHI2 01",
+        "subject": "History (Modular)",
+        "title": "Unit 2: Investigation and Breadth Studies",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "4HB1 01",
+        "subject": "Human Biology",
+        "title": "Paper 01",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-06-04",
+        "examCode": "4HB1 02",
+        "subject": "Human Biology",
+        "title": "Paper 02",
+        "time": "Afternoon",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "4IT1 01",
+        "subject": "Information And Communication Technology (ICT)",
+        "title": "Paper 1: Written Paper",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "4IT1 02",
+        "subject": "Information And Communication Technology (ICT)",
+        "title": "Paper 2: Practical Exam",
+        "time": "Window",
+        "duration": "3h 00m"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "4IT1 02",
+        "subject": "Information And Communication Technology (ICT)",
+        "title": "Paper 2: Practical Exam",
+        "time": "Window",
+        "duration": "3h 00m"
+      },
+      {
+        "date": "2025-06-04",
+        "examCode": "4IT1 02",
+        "subject": "Information And Communication Technology (ICT)",
+        "title": "Paper 2: Practical Exam",
+        "time": "Window",
+        "duration": "3h 00m"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "4IT1 02",
+        "subject": "Information And Communication Technology (ICT)",
+        "title": "Paper 2: Practical Exam",
+        "time": "Window",
+        "duration": "3h 00m"
+      },
+      {
+        "date": "2025-06-06",
+        "examCode": "4IT1 02",
+        "subject": "Information And Communication Technology (ICT)",
+        "title": "Paper 2: Practical Exam",
+        "time": "Window",
+        "duration": "3h 00m"
+      },
+      {
+        "date": "2025-05-27",
+        "examCode": "4IS1 01",
+        "subject": "Islamic Studies",
+        "title": "Paper 1: Islamic Studies",
+        "time": "Morning",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "4MA1 1F",
+        "subject": "Mathematics A (Linear)",
+        "title": "Paper 1F Foundation Tier",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "4MA1 1H",
+        "subject": "Mathematics A (Linear)",
+        "title": "Paper 1H Higher Tier",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-04",
+        "examCode": "4MA1 2F",
+        "subject": "Mathematics A (Linear)",
+        "title": "Paper 2F Foundation Tier",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-04",
+        "examCode": "4MA1 2H",
+        "subject": "Mathematics A (Linear)",
+        "title": "Paper 2H Higher Tier",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "4WM1F 01",
+        "subject": "Mathematics A (Modular)",
+        "title": "Unit 1F Foundation Tier",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "4WM1H 01",
+        "subject": "Mathematics A (Modular)",
+        "title": "Unit 1H Higher Tier",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-04",
+        "examCode": "4WM2F 01",
+        "subject": "Mathematics A (Modular)",
+        "title": "Unit 2F Foundation Tier",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-04",
+        "examCode": "4WM2H 01",
+        "subject": "Mathematics A (Modular)",
+        "title": "Unit 2H Higher Tier",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "4MB1 01",
+        "subject": "Mathematics B",
+        "title": "Paper 1",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-06-11",
+        "examCode": "4MB1 02",
+        "subject": "Mathematics B",
+        "title": "Paper 2",
+        "time": "Morning",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-05-09",
+        "examCode": "4PA1 01",
+        "subject": "Pakistan Studies",
+        "title": "Paper 1: History and culture of Pakistan",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-29",
+        "examCode": "4PA1 02",
+        "subject": "Pakistan Studies",
+        "title": "Paper 2: The landscape, people and economy of Pakistan",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "4PH1 1P",
+        "subject": "Physics (Linear)",
+        "title": "Paper: 1P",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-06-16",
+        "examCode": "4PH1 2P",
+        "subject": "Physics (Linear)",
+        "title": "Paper: 2P",
+        "time": "Morning",
+        "duration": "1h 15m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "4WPH1 1P",
+        "subject": "Physics (Modular)",
+        "title": "Unit 1",
+        "time": "Morning",
+        "duration": "1h 40m"
+      },
+      {
+        "date": "2025-06-16",
+        "examCode": "4WPH2 1P",
+        "subject": "Physics (Modular)",
+        "title": "Unit 2",
+        "time": "Morning",
+        "duration": "1h 40m"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "4RS1 01",
+        "subject": "Religious Studies (Linear)",
+        "title": "Paper 1: Beliefs and Values",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "4RS1 2A",
+        "subject": "Religious Studies (Linear)",
+        "title": "Paper 2A: Buddhism",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "4RS1 2B",
+        "subject": "Religious Studies (Linear)",
+        "title": "Paper 2B: Christianity",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "4RS1 2C",
+        "subject": "Religious Studies (Linear)",
+        "title": "Paper 2C: Hinduism",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "4RS1 2D",
+        "subject": "Religious Studies (Linear)",
+        "title": "Paper 2D: Islam",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "4RS1 2E",
+        "subject": "Religious Studies (Linear)",
+        "title": "Paper 2E: Judaism",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "4RS1 2F",
+        "subject": "Religious Studies (Linear)",
+        "title": "Paper 2F: Sikhism",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "4WRS1 01",
+        "subject": "Religious Studies (Modular)",
+        "title": "Unit 1: Beliefs and Values",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "4WRS2 1A",
+        "subject": "Religious Studies (Modular)",
+        "title": "Unit 2A: Buddhism",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "4WRS2 1B",
+        "subject": "Religious Studies (Modular)",
+        "title": "Unit 2B: Christianity",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "4WRS2 1C",
+        "subject": "Religious Studies (Modular)",
+        "title": "Unit 2C: Hinduism",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "4WRS2 1D",
+        "subject": "Religious Studies (Modular)",
+        "title": "Unit 2D: Islam",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "4WRS2 1E",
+        "subject": "Religious Studies (Modular)",
+        "title": "Unit 2E: Judaism",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "4WRS2 1F",
+        "subject": "Religious Studies (Modular)",
+        "title": "Unit 2F: Sikhism",
+        "time": "Afternoon",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "4SD0 1B",
+        "subject": "Science (Double Award) (Linear)",
+        "title": "Paper: 1B",
+        "time": "Afternoon",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "4SD0 1C",
+        "subject": "Science (Double Award) (Linear)",
+        "title": "Paper: 1C",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "4SD0 1P",
+        "subject": "Science (Double Award) (Linear)",
+        "title": "Paper: 1P",
+        "time": "Morning",
+        "duration": "2h 00m"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "4WSD1 1B",
+        "subject": "Science (Double Award) (Modular)",
+        "title": "Unit 1",
+        "time": "Afternoon",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-06-09",
+        "examCode": "4WSD2 1B",
+        "subject": "Science (Double Award) (Modular)",
+        "title": "Unit 2",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "4WSD3 1C",
+        "subject": "Science (Double Award) (Modular)",
+        "title": "Unit 3",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "4WSD4 1C",
+        "subject": "Science (Double Award) (Modular)",
+        "title": "Unit 4",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "4WSD5 1P",
+        "subject": "Science (Double Award) (Modular)",
+        "title": "Unit 5",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-06-16",
+        "examCode": "4WSD6 1P",
+        "subject": "Science (Double Award) (Modular)",
+        "title": "Unit 6",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-06-09",
+        "examCode": "4SS0 1B",
+        "subject": "Science (Single Award)",
+        "title": "Paper: 1B",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-06-13",
+        "examCode": "4SS0 1C",
+        "subject": "Science (Single Award)",
+        "title": "Paper: 1C",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-06-16",
+        "examCode": "4SS0 1P",
+        "subject": "Science (Single Award)",
+        "title": "Paper: 1P",
+        "time": "Morning",
+        "duration": "1h 10m"
+      },
+      {
+        "date": "2025-06-02",
+        "examCode": "4SI1 01",
+        "subject": "Sinhala",
+        "title": "Paper 1: Reading, Writing and Translation",
+        "time": "Afternoon",
+        "duration": "2h 30m"
+      },
+      {
+        "date": "2025-06-10",
+        "examCode": "4SP1 01",
+        "subject": "Spanish",
+        "title": "Paper 1: Listening ",
+        "time": "Morning",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-06-10",
+        "examCode": "4SP1 02",
+        "subject": "Spanish",
+        "title": "Paper 2: Reading and Writing ",
+        "time": "Morning",
+        "duration": "1h 45m"
+      },
+      {
+        "date": "2025-05-29",
+        "examCode": "4SW1 01",
+        "subject": "Swahili",
+        "title": "Paper 1: Reading, Writing and Translation",
+        "time": "Afternoon",
+        "duration": "2h 15m"
+      },
+      {
+        "date": "2025-05-29",
+        "examCode": "4SW1 02",
+        "subject": "Swahili",
+        "title": "Paper 2: Listening",
+        "time": "Afternoon",
+        "duration": "0h 35m"
+      },
+      {
+        "date": "2025-06-12",
+        "examCode": "4TA1 01",
+        "subject": "Tamil",
+        "title": "Paper 1: Reading, Writing and Translation",
+        "time": "Morning",
+        "duration": "2h 30m"
+      }
+    ]
+  },
+  "BTEC": {
+    "exams": [
+      {
+        "date": "2025-06-06",
+        "examCode": "20066K",
+        "subject": "Agriculture/Countryside Management/Horticulture/Forestry and Arboriculture",
+        "title": " Plant and Soil Science",
+        "time": "Morning",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-04-30",
+        "examCode": "21321L",
+        "subject": "Agriculture/Countryside Management/Horticulture/Forestry and Arboriculture",
+        "title": " Contemporary Issues in the Land-based Sectors",
+        "time": "Window",
+        "duration": "6 hours"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "21321L",
+        "subject": "Agriculture/Countryside Management/Horticulture/Forestry and Arboriculture",
+        "title": " Contemporary Issues in the Land-based Sectors",
+        "time": "Window",
+        "duration": "2 hours 30 minutes"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "21883G",
+        "subject": "Animal Care",
+        "title": " Animal Health ",
+        "time": "Afternoon",
+        "duration": "1 hour"
+      },
+      {
+        "date": "2025-06-12",
+        "examCode": "21177K",
+        "subject": "Animal Care",
+        "title": " Animal Welfare",
+        "time": "Window",
+        "duration": "2 hours 30 minutes"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "31645H",
+        "subject": "Animal Management",
+        "title": " Animal Biology",
+        "time": "Afternoon",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-03-31",
+        "examCode": "31644H",
+        "subject": "Animal Management",
+        "title": " Animal Breeding and Genetics",
+        "time": "Window",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-03-31",
+        "examCode": "31646H",
+        "subject": "Animal Management",
+        "title": " Animal Welfare and Ethics",
+        "time": "Window",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-05-06",
+        "examCode": "31644H",
+        "subject": "Animal Management",
+        "title": " Animal Breeding and Genetics",
+        "time": "Window",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-05-02",
+        "examCode": "31646H",
+        "subject": "Animal Management",
+        "title": " Animal Welfare and Ethics",
+        "time": "Window",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "21325L",
+        "subject": "Applied Human Biology",
+        "title": " Principles of Applied Human Biology",
+        "time": "Morning",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "21327L",
+        "subject": "Applied Human Biology",
+        "title": " Human Biology and Health Issues",
+        "time": "Window",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-03-31",
+        "examCode": "20168K",
+        "subject": "Applied Law",
+        "title": " Dispute Solving in Civil Law",
+        "time": "Window",
+        "duration": "6 hours"
+      },
+      {
+        "date": "2025-03-31",
+        "examCode": "20170K",
+        "subject": "Applied Law",
+        "title": " Applying the Law",
+        "time": "Window",
+        "duration": "6 hours"
+      },
+      {
+        "date": "2025-05-01",
+        "examCode": "20168K",
+        "subject": "Applied Law",
+        "title": " Dispute Solving in Civil Law",
+        "time": "Window",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "20170K",
+        "subject": "Applied Law",
+        "title": " Applying the Law",
+        "time": "Window",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "21331L",
+        "subject": "Applied Psychology",
+        "title": " Psychological Approaches and Applications",
+        "time": "Morning",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "21333L",
+        "subject": "Applied Psychology",
+        "title": " Health Psychology",
+        "time": "Afternoon",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-05-06",
+        "examCode": "31627H/1C",
+        "subject": "Applied Science",
+        "title": " Principles and Applications of Science II - Chemistry",
+        "time": "Afternoon",
+        "duration": "50 minutes"
+      },
+      {
+        "date": "2025-05-07",
+        "examCode": "31627H/1B",
+        "subject": "Applied Science",
+        "title": " Principles and Applications of Science II - Biology",
+        "time": "Afternoon",
+        "duration": "50 minutes"
+      },
+      {
+        "date": "2025-05-07",
+        "examCode": "31627H/1P",
+        "subject": "Applied Science",
+        "title": " Principles and Applications of Science II - Physics",
+        "time": "Morning",
+        "duration": "50 minutes"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "21909G",
+        "subject": "Applied Science",
+        "title": " Principles of Science (Welsh)",
+        "time": "Morning",
+        "duration": "1 hour"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "20460E",
+        "subject": "Applied Science",
+        "title": " Principles of Science",
+        "time": "Morning",
+        "duration": "1 hour"
+      },
+      {
+        "date": "2025-05-16",
+        "examCode": "21911G",
+        "subject": "Applied Science",
+        "title": " Scientific Skills (Welsh)",
+        "time": "Morning",
+        "duration": "1 hour 15 minutes"
+      },
+      {
+        "date": "2025-05-16",
+        "examCode": "20474E",
+        "subject": "Applied Science",
+        "title": " Scientific Skills",
+        "time": "Morning",
+        "duration": "1 hour 15 minutes"
+      },
+      {
+        "date": "2025-04-29",
+        "examCode": "31629H",
+        "subject": "Applied Science",
+        "title": " Contemporary Issues in Science",
+        "time": "Window",
+        "duration": "6 hours"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "31629H",
+        "subject": "Applied Science",
+        "title": " Contemporary Issues in Science",
+        "time": "Afternoon",
+        "duration": "2 hours 30 minutes"
+      },
+      {
+        "date": "2025-05-20",
+        "examCode": "31617H/1B",
+        "subject": "Applied Science/Forensic and Criminal Investigation",
+        "title": " Principles and Applications of Science I -Biology",
+        "time": "Afternoon",
+        "duration": "40 minutes"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "31617H/1P",
+        "subject": "Applied Science/Forensic and Criminal Investigation",
+        "title": " Principles and Applications of Science I - Physics",
+        "time": "Afternoon",
+        "duration": "40 minutes"
+      },
+      {
+        "date": "2025-05-20",
+        "examCode": "31617H/1C",
+        "subject": "Applied Science/Forensic and Criminal Investigation",
+        "title": " Principles and Applications of Science I - Chemistry",
+        "time": "Morning",
+        "duration": "40 minutes"
+      },
+      {
+        "date": "2025-01-06",
+        "examCode": "20478E",
+        "subject": "Art and Design",
+        "title": "Creative Project in Art and Design",
+        "time": "Window",
+        "duration": "N/A"
+      },
+      {
+        "date": "2025-01-06",
+        "examCode": "21913G",
+        "subject": "Art and Design",
+        "title": "Creative Project in Art and Design (Welsh)",
+        "time": "Window",
+        "duration": "N/A"
+      },
+      {
+        "date": "2025-02-25",
+        "examCode": "31832H",
+        "subject": "Art and Design",
+        "title": " Managing a Client Brief",
+        "time": "Window",
+        "duration": "15 hours"
+      },
+      {
+        "date": "2025-05-02",
+        "examCode": "31619H",
+        "subject": "Applied Science/Forensic and Criminal Investigation",
+        "title": " Science Investigation Skills",
+        "time": "Morning",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-03-24",
+        "examCode": "31828H",
+        "subject": "Art and Design",
+        "title": " Critical and Contextual Studies in Art and Design",
+        "time": "Window",
+        "duration": "Prep: 15 hours ( 3 hours monitored )"
+      },
+      {
+        "date": "2025-01-06",
+        "examCode": "31827H",
+        "subject": "Art and Design",
+        "title": " Visual Recording And Communication",
+        "time": "Window",
+        "duration": "Prep: 33 hours ( 8 hours monitored) Supervised 3 hours "
+      },
+      {
+        "date": "2025-03-03",
+        "examCode": "31833H",
+        "subject": "Art and Design ",
+        "title": " Developing And Realising Creative Intentions",
+        "time": "Window",
+        "duration": "Prep: 20 hours  (monitored) Supervised 25 hours "
+      },
+      {
+        "date": "2025-05-02",
+        "examCode": "BAC03/01",
+        "subject": "Animal Care",
+        "title": "Animal Health and Welfare",
+        "time": "Morning",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-05-02",
+        "examCode": "BAC03/01W",
+        "subject": "Animal Care",
+        "title": "Animal Health and Welfare (Welsh)",
+        "time": "Morning",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "21325E",
+        "subject": "Business",
+        "title": " Principles of Marketing ",
+        "time": "Afternoon",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "21927G",
+        "subject": "Business",
+        "title": " Principles of Marketing (Welsh)",
+        "time": "Afternoon",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "31463H",
+        "subject": "Business/Enterprise and Entrepreneurship",
+        "title": " Personal and Business Finance",
+        "time": "Afternoon",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "51102N",
+        "subject": "Business/Enterprise and Entrepreneurship",
+        "title": " Personal and Business Finance (Welsh)",
+        "time": "Afternoon",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-03-31",
+        "examCode": "31588H",
+        "subject": "Business/Enterprise and Entrepreneurship",
+        "title": " Principles of Management",
+        "time": "Window",
+        "duration": "6 hours"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "31489H",
+        "subject": "Business/Enterprise and Entrepreneurship",
+        "title": " Developing a Marketing Campaign",
+        "time": "Afternoon",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-05-06",
+        "examCode": "31828H",
+        "subject": "Art and Design",
+        "title": " Critical and Contextual Studies in Art and Design",
+        "time": "Window",
+        "duration": "3 hours 30 minutes"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "31589H",
+        "subject": "Business/Enterprise and Entrepreneurship",
+        "title": " Business Decision Making",
+        "time": "Morning",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-05-09",
+        "examCode": "31489H",
+        "subject": "Business/Enterprise and Entrepreneurship",
+        "title": " Developing a Marketing Campaign",
+        "time": "Morning",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "51101N",
+        "subject": "Business/Enterprise and Entrepreneurship ",
+        "title": " Developing a Marketing Campaign (Welsh)",
+        "time": "Afternoon",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-04-30",
+        "examCode": "31588H",
+        "subject": "Business/Enterprise and Entrepreneurship ",
+        "title": " Principles of Management",
+        "time": "Morning",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-05-09",
+        "examCode": "BCD03/01",
+        "subject": "Child Development",
+        "title": "Supporting Children to Play, Learn and Develop",
+        "time": "Afternoon",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "31768H",
+        "subject": "Computing",
+        "title": " Principles of Computer Science",
+        "time": "Morning",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-05-23",
+        "examCode": "31769H",
+        "subject": "Computing",
+        "title": " Fundamentals of Computer Systems",
+        "time": "Afternoon",
+        "duration": "1 hour 45 minutes"
+      },
+      {
+        "date": "2025-04-30",
+        "examCode": "31770H",
+        "subject": "Computing",
+        "title": " Planning and Management of Computing Projects",
+        "time": "Window",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-04-28",
+        "examCode": "31771H",
+        "subject": "Computing",
+        "title": " Software Design and Development Project",
+        "time": "Window",
+        "duration": "6 hours"
+      },
+      {
+        "date": "2025-05-09",
+        "examCode": "51101N",
+        "subject": "Business/Enterprise and Entrepreneurship ",
+        "title": " Developing a Marketing Campaign (Welsh)",
+        "time": "Morning",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "21935G",
+        "subject": "Construction and the Built Environment",
+        "title": " Construction Technology (Welsh) ",
+        "time": "Afternoon",
+        "duration": "1 hour 15 minutes"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "21492E",
+        "subject": "Construction and the Built Environment",
+        "title": " Construction Technology ",
+        "time": "Afternoon",
+        "duration": "1 hour 15 minutes"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "21941G",
+        "subject": "Construction and the Built Environment",
+        "title": " Sustainability in Construction (Welsh)",
+        "time": "Morning",
+        "duration": "1 hour 15 minutes"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "21635E",
+        "subject": "Construction and the Built Environment",
+        "title": " Sustainability in Construction  ",
+        "time": "Morning",
+        "duration": "1 hour 15 minutes"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "20075K",
+        "subject": "Construction and the Built Environment",
+        "title": " Construction Principles",
+        "time": "Morning",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "21486E",
+        "subject": "CPLD",
+        "title": " Patterns of Child Development",
+        "time": "Afternoon",
+        "duration": "1 hour"
+      },
+      {
+        "date": "2025-04-22",
+        "examCode": "20076K",
+        "subject": "Construction and the Built Environment",
+        "title": "Construction Design",
+        "time": "Window ",
+        "duration": "Prep: 3 hours "
+      },
+      {
+        "date": "2025-05-07",
+        "examCode": "31770H",
+        "subject": "Computing",
+        "title": " Planning and Management of Computing Projects",
+        "time": "Window",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-04-22",
+        "examCode": "20077K",
+        "subject": "Construction and the Built Environment",
+        "title": "Tendering and Estimating",
+        "time": "Window ",
+        "duration": "12 hours "
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "31597H",
+        "subject": "CPLD",
+        "title": " Children's Development ",
+        "time": "Morning",
+        "duration": "1 hour 45 minutes"
+      },
+      {
+        "date": "2025-03-31",
+        "examCode": "31599H",
+        "subject": "CPLD",
+        "title": " Enquiries into Current Research in Early Years Practice",
+        "time": "Window",
+        "duration": "6 hours"
+      },
+      {
+        "date": "2025-05-06",
+        "examCode": "31598H",
+        "subject": "CPLD",
+        "title": " Development of Children's Communication, Literacy and Numeracy Skills",
+        "time": "Window",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-05-06",
+        "examCode": "20076K",
+        "subject": "Construction and the Built Environment",
+        "title": "Construction Design",
+        "time": "Window ",
+        "duration": "12 hours"
+      },
+      {
+        "date": "2025-05-09",
+        "examCode": "31598H",
+        "subject": "CPLD",
+        "title": " Development of Children's Communication, Literacy and Numeracy Skills",
+        "time": "Morning",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "21221K",
+        "subject": "CPLD",
+        "title": " Child Development from Birth up to Five Years",
+        "time": "Window",
+        "duration": "2 hours 30 minutes"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "21526E",
+        "subject": "Creative Digital Media Production",
+        "title": " Digital Media Sectors and Audiences",
+        "time": "Afternoon",
+        "duration": "1 hour"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "21647E",
+        "subject": "Creative Digital Media Production",
+        "title": " Media Industry In Context",
+        "time": "Morning",
+        "duration": "1 hour"
+      },
+      {
+        "date": "2025-02-24",
+        "examCode": "31670H",
+        "subject": "Creative Digital Media Production",
+        "title": "Digital Media Skills",
+        "time": "Window",
+        "duration": "Prep: 5 hours \r\n(monitored) \r\nSupervised: 20 hours"
+      },
+      {
+        "date": "2025-03-24",
+        "examCode": "31672H",
+        "subject": "Creative Digital Media Production",
+        "title": " Specialist Subject Investigation",
+        "time": "Window",
+        "duration": "18 hours"
+      },
+      {
+        "date": "2025-03-31",
+        "examCode": "31674H",
+        "subject": "Creative Digital Media Production",
+        "title": " Responding to a Commission",
+        "time": "Window",
+        "duration": "12 hours and 6 hours"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "31599H",
+        "subject": "CPLD",
+        "title": " Enquiries into Current Research in Early Years Practice",
+        "time": "Morning",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "31668H",
+        "subject": "Creative Media Production",
+        "title": " Media Representations",
+        "time": "Window",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-05-06",
+        "examCode": "BCB03/01",
+        "subject": "Construction and the Built Environment",
+        "title": "Construction Technology",
+        "time": "Afternoon",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-01",
+        "examCode": "BIT03/01",
+        "subject": "Digital Information Technology",
+        "title": "Effective Digital Working Practices",
+        "time": "Afternoon",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-01",
+        "examCode": "BIT03/01W",
+        "subject": "Digital Information Technology",
+        "title": "Effective Digital Working Practices (Welsh)",
+        "time": "Afternoon",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "21262k",
+        "subject": "Digital Technology",
+        "title": " IT Service Solutions",
+        "time": "Window",
+        "duration": "3 hours 30 minutes"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "21174E",
+        "subject": "Engineering",
+        "title": " Interpreting and Using Engineering Information ",
+        "time": "Afternoon",
+        "duration": "1 hour"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "21925G",
+        "subject": "Engineering",
+        "title": " Interpreting and Using Engineering Information (Welsh)",
+        "time": "Afternoon",
+        "duration": "1 hour"
+      },
+      {
+        "date": "2025-04-14",
+        "examCode": "21141K",
+        "subject": "Engineering",
+        "title": "Responding to an Engineering Brief",
+        "time": "Window",
+        "duration": "N/A"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "31672H",
+        "subject": "Creative Digital Media Production",
+        "title": " Specialist Subject Investigation",
+        "time": "Window",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "21141K",
+        "subject": "Engineering",
+        "title": "Responding to an Engineering Brief",
+        "time": "Window",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-05-22",
+        "examCode": "31706H",
+        "subject": "Engineering",
+        "title": " Engineering Principles",
+        "time": "Morning",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-04-30",
+        "examCode": "31725H",
+        "subject": "Engineering",
+        "title": " Microcontroller Systems for Engineers",
+        "time": "Window",
+        "duration": "12 hours"
+      },
+      {
+        "date": "2025-05-06",
+        "examCode": "31708H",
+        "subject": "Engineering",
+        "title": " Engineering Product Design and Manufacture",
+        "time": "Window",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "21141K",
+        "subject": "Engineering",
+        "title": "Responding to an Engineering Brief",
+        "time": "Afternoon",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-07",
+        "examCode": "BEN03/01",
+        "subject": "Enterprise",
+        "title": "Marketing and Finance for Enterprise",
+        "time": "Morning",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-05-07",
+        "examCode": "BEN03/01W",
+        "subject": "Enterprise",
+        "title": "Marketing and Finance for Enterprise (Welsh)",
+        "time": "Morning",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "20108K",
+        "subject": "Equine Management",
+        "title": " Equine Structure, Form and Function",
+        "time": "Morning",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "20109K",
+        "subject": "Equine Management",
+        "title": " Equine Diet and Nutrition",
+        "time": "Window",
+        "duration": "2 hours 30 minutes"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "20110K",
+        "subject": "Equine Management",
+        "title": " Managing Equine Disease",
+        "time": "Window",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "20149K",
+        "subject": "Forensic and Criminal Investigation",
+        "title": " Applications of Criminology",
+        "time": "Morning",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "20151K",
+        "subject": "Forensic and Criminal Investigation",
+        "title": " Applications of Criminal and Forensic Psychology",
+        "time": "Morning",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "20544E",
+        "subject": "Health and Social Care",
+        "title": " Human Lifespan Development ",
+        "time": "Morning",
+        "duration": "1 hour"
+      },
+      {
+        "date": "2025-05-12",
+        "examCode": "31490H",
+        "subject": "Health and Social Care",
+        "title": " Human Lifespan Development",
+        "time": "Afternoon",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-16",
+        "examCode": "20952E",
+        "subject": "Health and Social Care",
+        "title": " Healthy Living ",
+        "time": "Morning",
+        "duration": "1 hour"
+      },
+      {
+        "date": "2025-05-16",
+        "examCode": "31491H",
+        "subject": "Health and Social Care",
+        "title": " Working in Health and Social Care",
+        "time": "Afternoon",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-23",
+        "examCode": "31493H",
+        "subject": "Health and Social Care",
+        "title": " Anatomy and Physiology for Health and Social Care",
+        "time": "Afternoon",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-03-31",
+        "examCode": "31494H",
+        "subject": "Health and Social Care",
+        "title": " Enquiries into Current Research in Health and Social Care",
+        "time": "Window",
+        "duration": "6 hours"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "31708H",
+        "subject": "Engineering",
+        "title": " Engineering Product Design and Manufacture",
+        "time": "Window",
+        "duration": "8 hours"
+      },
+      {
+        "date": "2025-05-06",
+        "examCode": "BHS03/01",
+        "subject": "Health and Social Care",
+        "title": "Health and Wellbeing",
+        "time": "Morning",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-05-07",
+        "examCode": "21541E",
+        "subject": "Hospitality",
+        "title": " Introducing The Hospitality Industry",
+        "time": "Afternoon",
+        "duration": "1 hour 15 minutes"
+      },
+      {
+        "date": "2025-05-07",
+        "examCode": "21937G",
+        "subject": "Hospitality",
+        "title": " Introducing The Hospitality Industry (Welsh)",
+        "time": "Afternoon",
+        "duration": "1 hour 15 minutes"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "21617E",
+        "subject": "Hospitality",
+        "title": " How the Hospitality Industry Contributes to Healthy Lifestyles",
+        "time": "Morning",
+        "duration": "1 hour 15 minutes"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "21939G",
+        "subject": "Hospitality",
+        "title": " How the Hospitality Industry Contributes to Healthy Lifestyles (Welsh)",
+        "time": "Morning",
+        "duration": "1 hour 15 minutes"
+      },
+      {
+        "date": "2025-05-16",
+        "examCode": "31760H",
+        "subject": "IT",
+        "title": " Information Technology Systems",
+        "time": "Afternoon",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-03-20",
+        "examCode": "20161K",
+        "subject": "IT",
+        "title": " IT Service Delivery",
+        "time": "Window",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-04-17",
+        "examCode": "20158K",
+        "subject": "IT",
+        "title": " Cyber Security and Incident Management",
+        "time": "Window",
+        "duration": "5 hours"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "31494H",
+        "subject": "Health and Social Care",
+        "title": " Enquiries into Current Research in Health and Social Care",
+        "time": "Morning",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-04-17",
+        "examCode": "20158K",
+        "subject": "IT",
+        "title": " Cyber Security and Incident Management",
+        "time": "Window",
+        "duration": "4 hours"
+      },
+      {
+        "date": "2025-05-07",
+        "examCode": "31761H",
+        "subject": "IT",
+        "title": " Creating Systems to Manage Information",
+        "time": "Afternoon",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-04-17",
+        "examCode": "20161K",
+        "subject": "IT",
+        "title": " IT Service Delivery",
+        "time": "Window",
+        "duration": "8 hours"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "50234N",
+        "subject": "Marketing",
+        "title": " Marketing Principles ",
+        "time": "Afternoon",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-09",
+        "examCode": "21512E",
+        "subject": "Music",
+        "title": " The Music Industry ",
+        "time": "Morning",
+        "duration": "1 hour"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "20375F",
+        "subject": "Music ",
+        "title": " Music and Production Analysis",
+        "time": "Afternoon",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-01-06",
+        "examCode": "20175K",
+        "subject": "Music Performance",
+        "title": "Ensemble Music Performance",
+        "time": "Window",
+        "duration": "Prep: 30 hours. Supervised: 2 hours (written activity) plus time stipulated for recording practical evidence"
+      },
+      {
+        "date": "2025-05-07",
+        "examCode": "20177K",
+        "subject": "Music Performance",
+        "title": " Professional Practice in the Music Industry",
+        "time": "Window",
+        "duration": "3 hours and 5 hours"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "BSP03/01",
+        "subject": "Sport",
+        "title": "Developing Fitness to Improve Other Participants Performance in Sport and Physical Activity",
+        "time": "Morning",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "BSP03/01W",
+        "subject": "Sport",
+        "title": "Developing Fitness to Improve Other Participants Performance in Sport and Physical Activity (Welsh)",
+        "time": "Morning",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-06",
+        "examCode": "31809H",
+        "subject": "Music Technology",
+        "title": "Music Technology Enterprise Opportunities",
+        "time": "Window",
+        "duration": "12 hours"
+      },
+      {
+        "date": "2025-04-22",
+        "examCode": "31810H",
+        "subject": "Music Technology",
+        "title": "Music Technology Daw Production",
+        "time": "Window",
+        "duration": "15 hours "
+      },
+      {
+        "date": "2025-03-31",
+        "examCode": "31811H",
+        "subject": "Music Technology",
+        "title": " Music Technology in Context",
+        "time": "Window",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-05-08",
+        "examCode": "31761H",
+        "subject": "IT",
+        "title": " Creating Systems to Manage Information",
+        "time": "Morning",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-05-02",
+        "examCode": "BTT03/01",
+        "subject": "Travel and Tourism",
+        "title": "Influences on Global Travel and Tourism",
+        "time": "Afternoon",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-05-02",
+        "examCode": "BTT03/01W",
+        "subject": "Travel and Tourism",
+        "title": "Influences on Global Travel and Tourism (Welsh)",
+        "time": "Afternoon",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-03-10",
+        "examCode": "31559H",
+        "subject": "Performing Arts",
+        "title": "Individual Perfomance Commission",
+        "time": "Window",
+        "duration": "Prep:40 hours; supervised 2 hours "
+      },
+      {
+        "date": "2025-01-06",
+        "examCode": "31557H",
+        "subject": "Performing Arts",
+        "title": "Group Performance Workshop",
+        "time": "Window",
+        "duration": "Prep:40 hours; supervised 5 hours "
+      },
+      {
+        "date": "2025-03-12",
+        "examCode": "31561H",
+        "subject": "Performing Arts",
+        "title": " Employment Opportunities in the Performing Arts",
+        "time": "Window",
+        "duration": "10 hours"
+      },
+      {
+        "date": "2025-05-02",
+        "examCode": "31811H",
+        "subject": "Music Technology",
+        "title": " Music Technology in Context",
+        "time": "Morning",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-03-17",
+        "examCode": "31555H",
+        "subject": "Performing Arts",
+        "title": " Investigating Practitioners' Work",
+        "time": "Window",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2024-09-06",
+        "examCode": "20512E",
+        "subject": "Performing Arts",
+        "title": "Individual Showcase",
+        "time": "Window ",
+        "duration": ""
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "21933G",
+        "subject": "Public Services",
+        "title": " The Role and Work of the Public Services (Welsh) ",
+        "time": "Morning",
+        "duration": "1 hour"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "21484F",
+        "subject": "Public Services",
+        "title": " The Role and Work of the Public Services ",
+        "time": "Morning",
+        "duration": "1 hour"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "21943G",
+        "subject": "Public Services",
+        "title": " Citizenship, Society and the Public Services (Welsh)",
+        "time": "Morning",
+        "duration": "1 hour"
+      },
+      {
+        "date": "2025-06-05",
+        "examCode": "20537G",
+        "subject": "Public Services",
+        "title": " Citizenship, Society and the Public Services",
+        "time": "Morning",
+        "duration": "1 hour"
+      },
+      {
+        "date": "2025-05-14",
+        "examCode": "31524H",
+        "subject": "Sport",
+        "title": " Anatomy and Physiology",
+        "time": "Afternoon",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-01",
+        "examCode": "21405J",
+        "subject": "Sport",
+        "title": " Investigating Business in Sport and the Active Leisure Industry",
+        "time": "Window",
+        "duration": "6 hours"
+      },
+      {
+        "date": "2025-05-01",
+        "examCode": "31555H",
+        "subject": "Performing Arts",
+        "title": " Investigating Practitioners' Work",
+        "time": "Window",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-05-01",
+        "examCode": "31542H",
+        "subject": "Sport",
+        "title": " Development and Provision of Sport and Physical Activity",
+        "time": "Window",
+        "duration": "4 hours"
+      },
+      {
+        "date": "2025-05-16",
+        "examCode": "21405J",
+        "subject": "Sport",
+        "title": " Investigating Business in Sport and the Active Leisure Industry",
+        "time": "Morning",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-05-01",
+        "examCode": "31525H",
+        "subject": "Sport",
+        "title": " Fitness Training and Programming for Health, Sport and Wellbeing",
+        "time": "Morning",
+        "duration": "2 hours 30 minutes"
+      },
+      {
+        "date": "2025-03-31",
+        "examCode": "31525H",
+        "subject": "Sport",
+        "title": " Fitness Training and Programming for Health, Sport and Wellbeing",
+        "time": "Window",
+        "duration": "4 hours"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "31813H",
+        "subject": "Sport and Exercise Science",
+        "title": " Sport and Exercise Physiology",
+        "time": "Morning",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-13",
+        "examCode": "31814H",
+        "subject": "Sport and Exercise Science",
+        "title": " Functional Anatomy",
+        "time": "Morning",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-09",
+        "examCode": "31542H",
+        "subject": "Sport",
+        "title": " Development and Provision of Sport and Physical Activity",
+        "time": "Afternoon",
+        "duration": "2 hours 30 minutes"
+      },
+      {
+        "date": "2025-01-13",
+        "examCode": "BAD02/01",
+        "subject": "Art & Design Practice",
+        "title": "Responding to a Brief",
+        "time": "Window",
+        "duration": "20 hours "
+      },
+      {
+        "date": "2025-01-13",
+        "examCode": "BAD02/01W",
+        "subject": "Art & Design Practice",
+        "title": "Responding to a Brief (Welsh)",
+        "time": "Window",
+        "duration": "20 hours "
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "21474E",
+        "subject": "Travel and Tourism",
+        "title": " The UK Travel and Tourism Sector",
+        "time": "Afternoon",
+        "duration": "1 hour 15 minutes"
+      },
+      {
+        "date": "2025-06-03",
+        "examCode": "21627E",
+        "subject": "Travel and Tourism",
+        "title": " Travel and Tourism Business Environments ",
+        "time": "Afternoon",
+        "duration": "1 hour"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "20207K",
+        "subject": "Travel and Tourism",
+        "title": " The World of Travel and Tourism",
+        "time": "Morning",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-15",
+        "examCode": "51103N",
+        "subject": "Travel and Tourism",
+        "title": " The World of Travel and Tourism (Welsh)",
+        "time": "Morning",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-01-13",
+        "examCode": "BCM03/01",
+        "subject": "Creative Media Production",
+        "title": "Create a Media Product in Response to a Brief",
+        "time": "Window",
+        "duration": "10 hours"
+      },
+      {
+        "date": "2025-01-13",
+        "examCode": "BCM03/01W",
+        "subject": "Creative Media Production",
+        "title": "Create a Media Product in Response to a Brief (Welsh)",
+        "time": "Window",
+        "duration": "10 hours"
+      },
+      {
+        "date": "2025-03-31",
+        "examCode": "20208K",
+        "subject": "Travel and Tourism",
+        "title": " Global Destinations",
+        "time": "Window",
+        "duration": "6 hours"
+      },
+      {
+        "date": "2025-03-31",
+        "examCode": "51104N",
+        "subject": "Travel and Tourism",
+        "title": " Global Destinations (Welsh)",
+        "time": "Window",
+        "duration": "6 hours"
+      },
+      {
+        "date": "2025-05-02",
+        "examCode": "31815H",
+        "subject": "Sport and Exercise Science",
+        "title": " Applied Sport and Exercise Psychology",
+        "time": "Morning",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-05-09",
+        "examCode": "31824H",
+        "subject": "Sport and Exercise Science",
+        "title": " Nutrition for Sport and Exercise Performance",
+        "time": "Morning",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "40892M",
+        "subject": "Uniformed Protective Services",
+        "title": " Government and the Protective Services ",
+        "time": "Afternoon",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-19",
+        "examCode": "51106N",
+        "subject": "Uniformed Protective Services",
+        "title": " Government and the Protective Services (Welsh)",
+        "time": "Afternoon",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "40888M",
+        "subject": "Uniformed Protective Services",
+        "title": " Behaviour and Discipline in the Uniformed Protective Services",
+        "time": "Morning",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-05-21",
+        "examCode": "51105N",
+        "subject": "Uniformed Protective Services",
+        "title": " Behaviour and Discipline in the Uniformed Protective Services (Welsh)",
+        "time": "Morning",
+        "duration": "2 hours"
+      },
+      {
+        "date": "2025-05-06",
+        "examCode": "20208K",
+        "subject": "Travel and Tourism",
+        "title": " Global Destinations",
+        "time": "Window",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-05-09",
+        "examCode": "20065K",
+        "subject": "Agriculture/Countryside Management/Horticulture/Forestry and Arboriculture",
+        "title": " Professional Working Responsibilities",
+        "time": "Window",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-05-02",
+        "examCode": "31619H",
+        "subject": "Applied Science/Forensic and Criminal Investigation",
+        "title": " Science Investigation Skills",
+        "time": "Morning",
+        "duration": "45 minutes"
+      },
+      {
+        "date": "2025-05-06",
+        "examCode": "51104N",
+        "subject": "Travel and Tourism",
+        "title": " Global Destinations (Welsh)",
+        "time": "Window",
+        "duration": "3 hours"
+      },
+      {
+        "date": "2025-01-13",
+        "examCode": "BMP03/01",
+        "subject": "Music Practice",
+        "title": "Responding to a Music Brief",
+        "time": "Window",
+        "duration": "23 hours"
+      },
+      {
+        "date": "2025-01-13",
+        "examCode": "BMP03/01W",
+        "subject": "Music Practice",
+        "title": "Responding to a Music Brief (Welsh)",
+        "time": "Window",
+        "duration": "23 hours"
+      },
+      {
+        "date": "2025-01-13",
+        "examCode": "BPA03/01",
+        "subject": "Performing Arts",
+        "title": "Responding to a Brief",
+        "time": "Window",
+        "duration": "11 hours "
+      },
+      {
+        "date": "2025-01-13",
+        "examCode": "BPA03/01W",
+        "subject": "Performing Arts",
+        "title": "Responding to a Brief (Welsh)",
+        "time": "Window",
+        "duration": "11 hours "
+      },
+      {
+        "date": "2025-01-13",
+        "examCode": "BPD03/01",
+        "subject": "Performing Arts (Dance)",
+        "title": "Responding to a Brief",
+        "time": "Window",
+        "duration": "11 hours "
+      },
+      {
+        "date": "2025-01-13",
+        "examCode": "BPD03/01W",
+        "subject": "Performing Arts (Dance)",
+        "title": "Responding to a Brief (Welsh)",
+        "time": "Window",
+        "duration": "11 hours "
+      }
+    ]
+  },
+  "T-Levels": {
+    "exams": []
+  },
+  "Edexcel Awards": {
+    "exams": [
+      {
+        "date": "2025-05-06",
+        "examCode": "ANM10 1A",
+        "subject": "Number And Measure",
+        "title": "Edexcel Level 1 Award in Number And Measure",
+        "time": "Morning",
+        "duration": "1h 00m"
+      },
+      {
+        "date": "2025-05-06",
+        "examCode": "ANM10 1B",
+        "subject": "Number And Measure",
+        "title": "Edexcel Level 1 Award in Number And Measure",
+        "time": "Morning",
+        "duration": "0h 30m"
+      },
+      {
+        "date": "2025-05-06",
+        "examCode": "ANM20 2A ",
+        "subject": "Number And Measure",
+        "title": "Edexcel Level 2 Award In Number And Measure",
+        "time": "Morning",
+        "duration": "1h 00m"
+      },
+      {
+        "date": "2025-05-06",
+        "examCode": "ANM20 2B",
+        "subject": "Number And Measure",
+        "title": "Edexcel Level 2 Award In Number And Measure",
+        "time": "Morning",
+        "duration": "0h 30m"
+      },
+      {
+        "date": "2025-05-07",
+        "examCode": "AAL20 01",
+        "subject": "Algebra",
+        "title": "Edexcel Level 2 Award In Algebra",
+        "time": "Morning",
+        "duration": "1h 30m"
+      },
+      {
+        "date": "2025-05-07",
+        "examCode": "AAL30 01",
+        "subject": "Algebra",
+        "title": "Edexcel Level 3 Award In Algebra",
+        "time": "Morning",
+        "duration": "2h 00m"
+      }
+    ]
+  },
+  "Level 2 Extended Maths": {
+    "exams": [
+      {
+        "date": "2025-06-12",
+        "examCode": "7M20 01",
+        "subject": "Extended Mathematics",
+        "title": "Paper 1: (Non-Calculator)",
+        "time": "Afternoon",
+        "duration": "1h 15m"
+      },
+      {
+        "date": "2025-06-18",
+        "examCode": "7M20 02",
+        "subject": "Extended Mathematics",
+        "title": "Paper 2: (Calculator)",
+        "time": "Afternoon",
+        "duration": "1h 15m"
+      }
+    ]
+  },
+  "Level 3 Core": {
+    "exams": [
+      {
+        "date": "2025-05-15",
+        "examCode": "7MC0 01",
+        "subject": "Mathematics in Context",
+        "title": "Paper 1: Comprehension",
+        "time": "Afternoon",
+        "duration": "1h 40m"
+      },
+      {
+        "date": "2025-05-23",
+        "examCode": "7MC0 02",
+        "subject": "Mathematics in Context",
+        "title": "Paper 2: Applications",
+        "time": "Afternoon",
+        "duration": "1h 40m"
+      }
+    ]
+  }
+}

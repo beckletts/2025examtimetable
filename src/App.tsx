@@ -15,6 +15,7 @@ import {
   Chip,
   Card,
   CardContent,
+  Alert,
 } from '@mui/material';
 import theme from './theme';
 
@@ -26,6 +27,16 @@ interface Exam {
   time: string;
   duration: string;
 }
+
+// Get the API URL based on the environment
+const API_URL = process.env.NODE_ENV === 'production' 
+  ? 'https://pearson-exam-calendar-api.onrender.com'  // Production API URL
+  : 'http://localhost:3001';  // Development API URL
+
+// Get the base URL for assets (needed for GitHub Pages)
+const BASE_URL = process.env.NODE_ENV === 'production'
+  ? '/pearson-exam-calendar'  // GitHub Pages repository name
+  : '';
 
 const App: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
@@ -55,7 +66,7 @@ const App: React.FC = () => {
     setError(null);
 
     try {
-      const response = await fetch(`http://localhost:3001/api/search?qualification=${encodeURIComponent(qualification)}&searchTerm=${encodeURIComponent(searchTerm)}`);
+      const response = await fetch(`${API_URL}/api/search?qualification=${encodeURIComponent(qualification)}&searchTerm=${encodeURIComponent(searchTerm)}`);
       
       if (!response.ok) {
         throw new Error('Failed to fetch exam data');
@@ -65,6 +76,7 @@ const App: React.FC = () => {
       setExams(data);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'An error occurred while fetching exam data');
+      console.error('Search error:', err);
     } finally {
       setLoading(false);
     }
@@ -101,6 +113,12 @@ const App: React.FC = () => {
             >
               Pearson Exam Calendar
             </Typography>
+
+            {process.env.NODE_ENV === 'development' && (
+              <Alert severity="info" sx={{ mb: 2 }}>
+                Running in development mode - using local API
+              </Alert>
+            )}
             
             <Grid container spacing={3} sx={{ mb: 4 }}>
               <Grid item xs={12} md={6}>
@@ -148,6 +166,7 @@ const App: React.FC = () => {
             <Button
               variant="contained"
               onClick={handleSearch}
+              disabled={loading}
               sx={{
                 backgroundColor: theme.palette.pearson.primary,
                 '&:hover': {
@@ -156,19 +175,18 @@ const App: React.FC = () => {
                 mb: 4,
               }}
             >
-              Search Exams
+              {loading ? 'Searching...' : 'Search Exams'}
             </Button>
 
-            {/* Results will be displayed here */}
+            {error && (
+              <Alert severity="error" sx={{ mt: 2, mb: 2 }}>
+                {error}
+              </Alert>
+            )}
+
             {loading && (
               <Typography sx={{ mt: 4, color: theme.palette.pearson.primary }}>
                 Loading exam data...
-              </Typography>
-            )}
-
-            {error && (
-              <Typography sx={{ mt: 4, color: 'error.main' }}>
-                {error}
               </Typography>
             )}
 
@@ -182,7 +200,7 @@ const App: React.FC = () => {
                     mb: 3,
                   }}
                 >
-                  Search Results
+                  Search Results ({exams.length} exams found)
                 </Typography>
                 <Grid container spacing={2}>
                   {exams.map((exam, index) => (
@@ -202,9 +220,9 @@ const App: React.FC = () => {
                             {exam.subject}
                           </Typography>
                           <Typography variant="body1" color="text.secondary">
-                            Paper: {exam.paper}
+                            {exam.paper}
                           </Typography>
-                          <Box sx={{ mt: 1, display: 'flex', gap: 2 }}>
+                          <Box sx={{ mt: 1, display: 'flex', gap: 2, flexWrap: 'wrap' }}>
                             <Chip 
                               label={`Date: ${exam.date}`}
                               sx={{ backgroundColor: theme.palette.pearson.accentYellow, color: 'black' }}
