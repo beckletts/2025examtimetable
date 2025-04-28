@@ -29,14 +29,14 @@ interface Exam {
 }
 
 // Get the API URL based on the environment
-const API_URL = process.env.NODE_ENV === 'production' 
-  ? 'https://pearson-exam-calendar-api.onrender.com'  // Production API URL
-  : 'http://localhost:3001';  // Development API URL
+const API_URL = process.env.REACT_APP_API_URL || (
+  process.env.NODE_ENV === 'production'
+    ? 'https://pearson-exam-calendar-api.onrender.com'  // Production API URL
+    : 'http://localhost:3001'  // Development API URL
+);
 
-// Get the base URL for assets (needed for GitHub Pages)
-const BASE_URL = process.env.NODE_ENV === 'production'
-  ? '/pearson-exam-calendar'  // GitHub Pages repository name
-  : '';
+// Get the base URL for assets (needed for GitHub Pages and Netlify)
+const BASE_PATH = process.env.PUBLIC_URL || '';
 
 const App: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
@@ -116,7 +116,7 @@ const App: React.FC = () => {
 
             {process.env.NODE_ENV === 'development' && (
               <Alert severity="info" sx={{ mb: 2 }}>
-                Running in development mode - using local API
+                Running in development mode - using {API_URL}
               </Alert>
             )}
             
