@@ -22,15 +22,18 @@ interface ExamData {
 
 const app = express();
 app.use(cors());
+app.use(express.json());
 
 // Load exam data from JSON file
-const examData: ExamData = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/exam-data.json'), 'utf-8'));
+const examDataPath = path.join(__dirname, '../data/exam-data.json');
+const examData: ExamData = JSON.parse(fs.readFileSync(examDataPath, 'utf-8'));
 
 app.get('/api/search', (req, res) => {
   try {
-    const { qualification, searchTerm } = req.query;
+    const qualification = req.query.qualification as string;
+    const searchTerm = (req.query.searchTerm as string || '').toLowerCase();
     
-    if (!qualification || typeof qualification !== 'string') {
+    if (!qualification) {
       return res.status(400).json({ error: 'Qualification is required' });
     }
 
@@ -42,14 +45,14 @@ app.get('/api/search', (req, res) => {
     let filteredExams = qualificationData.exams;
     
     // Apply search filter if searchTerm is provided
-    if (searchTerm && typeof searchTerm === 'string') {
-      const searchLower = searchTerm.toLowerCase();
+    if (searchTerm) {
       filteredExams = filteredExams.filter(exam => 
-        exam.subject.toLowerCase().includes(searchLower) ||
-        exam.title.toLowerCase().includes(searchLower)
+        exam.subject.toLowerCase().includes(searchTerm) ||
+        exam.title.toLowerCase().includes(searchTerm)
       );
     }
 
+    console.log(`Found ${filteredExams.length} exams for ${qualification}`);
     res.json(filteredExams);
   } catch (error) {
     console.error('Error processing search:', error);

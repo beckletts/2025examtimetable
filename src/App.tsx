@@ -35,9 +35,6 @@ const API_URL = process.env.REACT_APP_API_URL || (
     : 'http://localhost:3001'  // Development API URL
 );
 
-// Get the base URL for assets (needed for GitHub Pages and Netlify)
-const BASE_PATH = process.env.PUBLIC_URL || '';
-
 const App: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [qualification, setQualification] = useState('');
